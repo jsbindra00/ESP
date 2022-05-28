@@ -95,110 +95,91 @@ LatexCommand tableofcontents
 
 \end_layout
 
-\begin_layout Section
+\begin_layout Part
 \noindent
 
 \emph on
 Agile Software Development
 \end_layout
 
-\begin_layout Standard
-\noindent
-The 
+\begin_layout Section
+
 \emph on
-Manifesto for Agile Software Development 
-\emph default
-is based on 12 principles:
+Agile Outline
 \end_layout
 
 \begin_layout Enumerate
 \noindent
-
-\series bold
 Customer Satisfaction by early and continuous delivery of valuable software.
 \end_layout
 
 \begin_layout Enumerate
 \noindent
-
-\series bold
 Welcome changing requirements, even in late development.
 \end_layout
 
 \begin_layout Enumerate
 \noindent
-
-\series bold
 Deliver working software frequently.
 \end_layout
 
 \begin_layout Enumerate
 \noindent
-
-\series bold
 Close, daily cooperation between business people and developers.
 \end_layout
 
 \begin_layout Enumerate
 \noindent
-
-\series bold
 Projects are built around motivated individuals who should be trusted.
 \end_layout
 
 \begin_layout Enumerate
 \noindent
-
-\series bold
 Face to face conversation is the best form of communication.
 \end_layout
 
 \begin_layout Enumerate
 \noindent
-
-\series bold
 Working software is the primary measure of progress.
 \end_layout
 
 \begin_layout Enumerate
 \noindent
-
-\series bold
 Sustainable development, able to maintain a constant pace.
 \end_layout
 
 \begin_layout Enumerate
 \noindent
-
-\series bold
 Continuous attention to technical excellence and good design.
 \end_layout
 
 \begin_layout Enumerate
 \noindent
-
-\series bold
 Simplicity - the art of maximising the amount of work not done is essential
 \end_layout
 
 \begin_layout Enumerate
 \noindent
-
-\series bold
 Best architectures and designsemerge from self organising teams.
 \end_layout
 
 \begin_layout Enumerate
 \noindent
-
-\series bold
 The team regularly reflects on how to become more effective and adjusts
  accordingly.
 \end_layout
 
 \begin_layout Standard
+\begin_inset Separator plain
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
 \noindent
 
+\series bold
 \emph on
 How can one enforce Agile Software Development?
 \end_layout
@@ -274,9 +255,10 @@ Enforcing design patterns onto the architecture.
 \end_layout
 
 \end_deeper
-\begin_layout Standard
+\begin_layout Subsection
 \noindent
 
+\series bold
 \emph on
 Where is ASD appropriate?
 \end_layout
@@ -314,7 +296,7 @@ nt.
 
 \end_layout
 
-\begin_layout Section
+\begin_layout Part
 \noindent
 
 \emph on
@@ -331,14 +313,66 @@ which highlight a set of axioms by which software engineers should operate,
  to encourage ethical and legal behaviour:
 \end_layout
 
-\begin_layout Subsection
+\begin_layout Section
 \noindent
 
 \emph on
 ACM (Association for Computing Machinery) [58,68]
 \end_layout
 
+\begin_layout Standard
+ACM are the worlds largest computing society which provide activities, guidance
+ and principles to support professional growth.
+\end_layout
+
 \begin_layout Subsection
+\noindent
+
+\series bold
+\emph on
+General Ethical Principles:
+\end_layout
+
+\begin_layout Itemize
+\noindent
+Contribute to society and to human well being, acknowleding that all people
+ are stakeholders in computing.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+\noindent
+Avoid harm.
+\end_layout
+
+\begin_layout Itemize
+\noindent
+Be honest and trustworthy.
+\end_layout
+
+\begin_layout Itemize
+\noindent
+Be fair and take action not to discriminate.
+\end_layout
+
+\begin_layout Itemize
+\noindent
+Respect the work required to produce new ideas, inventions, creative works,
+ and computing artifacts.
+\end_layout
+
+\begin_layout Itemize
+\noindent
+Respect privacy.
+\end_layout
+
+\begin_layout Itemize
+\noindent
+Honor confidentiality.
+\end_layout
+
+\end_deeper
+\begin_layout Section
 \noindent
 
 \emph on
@@ -351,167 +385,27 @@ IEEE enforces 8 practices which software engineers should take with regards
  to ethics and professional practices.
 \end_layout
 
-\begin_layout Subsection
+\begin_layout Section
 \noindent
 
 \emph on
-BSS [75,77]
+BCS [75,77]
 \end_layout
 
 \begin_layout Standard
 \noindent
-BSS enforces four key principles which serve as a code of conduct for profession
-alism to software engineers.
-\end_layout
 
-\begin_layout Subsection
-\noindent
-
+\series bold
 \emph on
-Research Ethics [158,159]
-\end_layout
-
-\begin_layout Subsubsection
-\noindent
-
-\emph on
-EIRA [https://moodle.bath.ac.uk/pluginfile.php/1469988/mod_resource/content/6/EIRA1%
-20information%20CC.pdf]
-\end_layout
-
-\begin_layout Standard
-\noindent
-Engaging with research involves ethical, legal and professional considerations.
-\end_layout
-
-\begin_layout Itemize
-\noindent
-The University of Bath requires the EIRA1 electronic form to be completed
- and submitted for review for all projects that involve human participants.
-\end_layout
-
-\begin_layout Itemize
-\noindent
-We are expected to act with 
-\series bold
-Scientific Integrity
-\series default
-, which enforces the following principles:
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-\noindent
-
-\series bold
-Honesty: 
-\series default
-The work you present must be clear and your intentions must be accurate.
- Interpretations of data should be clear, and justifications of data; acknowledi
-ng sources, and honesty in the farming of data.
-\end_layout
-
-\begin_layout Itemize
-\noindent
-
-\series bold
-Rigour: 
-\series default
-Research to be rigorous and explore and exhaust all nodes.
-\end_layout
-
-\begin_layout Itemize
-\noindent
-
-\series bold
-Transparency and open communication: 
-\series default
-highlight limitations of studies and negative results.
- Must be transparent in your methodologies, and share criticisms as part
- of the research process.
-\end_layout
-
-\begin_layout Itemize
-\noindent
-
-\series bold
-Care and respect
-\series default
-: to all beneficiaries of the experiment, including animals, environments
- and cultural objects.
-\end_layout
-
-\begin_layout Itemize
-\noindent
-
-\series bold
-Accountability: 
-\series default
-Individuals are held to account when their behaviour falls short of the
- standards we set.
-\end_layout
-
-\end_deeper
-\begin_layout Subsubsection
-\noindent
-
-\series bold
-Misconduct types:
-\end_layout
-
-\begin_layout Itemize
-\noindent
-
-\series bold
-Falsification: 
-\series default
-Manipulating research, equipments or process; changing data to fit narratives
- or other goal without any justification.
- Remember, negative and null results are valid; it is a skill to show negative
- results in a positive light so as to learn from them.
-\end_layout
-
-\begin_layout Itemize
-\noindent
-
-\series bold
-Plaigarism: 
-\series default
-Using other peoples work and ideas without giving proper credit to the original
- source.
- Violates the rights of the authors to their intellectual output.
+BCS
+\emph default
  
-\end_layout
-
-\begin_layout Itemize
-\noindent
-
-\series bold
-Fabrication: 
-\series default
-Making up results and recording them as though they were real.
- 
-\end_layout
-
-\begin_layout Subsubsection
-\noindent
-
-\series bold
-Code of Ethics:
-\end_layout
-
-\begin_layout Itemize
-\noindent
-
-\series bold
-BCS 
 \series default
 is a Chartered Institute for IT, and is known as an independant professional
  body.
  BCS enforces four key principles:
 \end_layout
 
-\begin_deeper
 \begin_layout Itemize
 \noindent
 You make IT/ software for everyone.
@@ -565,75 +459,306 @@ Uphold the reputation of the profession and encourage others to grow.
 \end_layout
 
 \end_deeper
+\begin_layout Subsection
+\noindent
+
+\emph on
+Research Ethics [158,159]
+\end_layout
+
+\begin_layout Subsubsection
+\noindent
+
+\emph on
+EIRA [https://moodle.bath.ac.uk/pluginfile.php/1469988/mod_resource/content/6/EIRA1%
+20information%20CC.pdf]
+\end_layout
+
+\begin_layout Standard
+\noindent
+Engaging with research involves ethical, legal and professional considerations.
+\end_layout
+
+\begin_layout Itemize
+\noindent
+The University of Bath requires the EIRA1 electronic form to be completed
+ and submitted for review for all projects that involve human participants.
+\end_layout
+
+\begin_layout Itemize
+\noindent
+We are expected to act with 
+\series bold
+Scientific Integrity
+\series default
+, which enforces the following principles:
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+\noindent
+
+\emph on
+Honesty
+\series bold
+\emph default
+: 
+\series default
+The work you present must be clear and your intentions must be accurate.
+ Interpretations of data should be clear, and justifications of data; acknowledi
+ng sources, and honesty in the farming of data.
+\end_layout
+
+\begin_layout Itemize
+\noindent
+
+\emph on
+Rigour
+\series bold
+\emph default
+: 
+\series default
+Research to be rigorous and explore and exhaust all nodes.
+\end_layout
+
+\begin_layout Itemize
+\noindent
+
+\emph on
+Transparency and open communication
+\series bold
+\emph default
+: 
+\series default
+highlight limitations of studies and negative results.
+ Must be transparent in your methodologies, and share criticisms as part
+ of the research process.
+\end_layout
+
+\begin_layout Itemize
+\noindent
+
+\emph on
+Care and respect
+\emph default
+: to all beneficiaries of the experiment, including animals, environments
+ and cultural objects.
+\end_layout
+
+\begin_layout Itemize
+\noindent
+
+\emph on
+Accountability
+\series bold
+\emph default
+: 
+\series default
+Individuals are held to account when their behaviour falls short of the
+ standards we set.
+\end_layout
+
 \end_deeper
+\begin_layout Subsubsection
+\noindent
+
+\emph on
+Misconduct types:
+\end_layout
+
 \begin_layout Itemize
 \noindent
 
+\emph on
+Falsification:
 \series bold
-ACM (Association for Computing Machinery)
+\emph default
+ 
+\series default
+Manipulating research, equipments or process; changing data to fit narratives
+ or other goal without any justification.
+ Remember, negative and null results are valid; it is a skill to show negative
+ results in a positive light so as to learn from them.
+\end_layout
+
+\begin_layout Itemize
+\noindent
+
+\emph on
+Plaigarism:
+\series bold
+\emph default
+ 
+\series default
+Using other peoples work and ideas without giving proper credit to the original
+ source.
+ Violates the rights of the authors to their intellectual output.
+ 
+\end_layout
+
+\begin_layout Itemize
+\noindent
+
+\emph on
+Fabrication:
+\series bold
+\emph default
+ 
+\series default
+Making up results and recording them as though they were real.
+ 
+\end_layout
+
+\begin_layout Subsubsection
+\noindent
+
+\emph on
+Code of Ethics:
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+\emph on
+IEEE (Institute of Electrical and Electronics Engineers)
 \end_layout
 
 \begin_deeper
 \begin_layout Itemize
-\noindent
-Worlds largest computing society.
+Worlds largest technical professional organisation.
 \end_layout
 
 \begin_layout Itemize
-\noindent
-Activities to support professional growth.
+International standards and activities to support professional growth.
 \end_layout
 
 \begin_layout Itemize
-\noindent
 
 \series bold
-General Ethical Principles:
+\emph on
+IEE Code of Ethics.
 \end_layout
 
 \begin_deeper
 \begin_layout Itemize
-\noindent
-Contribute to society and to human well being, acknowleding that all people
- are stakeholders in computing.
+Upload the highest standards of integrity, responsible behaviour and ethical
+ conduct in professional activities.
 \end_layout
 
 \begin_layout Itemize
-\noindent
-Avoid harm.
+Treat all persons fairly and with respect, to not engage in harassment or
+ discrimination, and to avoid injuring others.
 \end_layout
 
 \begin_layout Itemize
-\noindent
-Be honest and trustworthy.
-\end_layout
-
-\begin_layout Itemize
-\noindent
-Be fair and take action not to discriminate.
-\end_layout
-
-\begin_layout Itemize
-\noindent
-Respect the work required to produce new ideas, inventions, creative works,
- and computing artifacts.
-\end_layout
-
-\begin_layout Itemize
-\noindent
-Respect privacy.
-\end_layout
-
-\begin_layout Itemize
-\noindent
-Honor confidentiality.
+Strive to ensure code is upheld by colleagues and co-workers.
 \end_layout
 
 \end_deeper
 \end_deeper
 \begin_layout Standard
+\begin_inset Separator plain
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+
+\emph on
+Key Principles of Human Research
+\end_layout
+
+\begin_layout Standard
+In collecting data from people, there are some basic ethical principles
+ to consider:
+\end_layout
+
+\begin_layout Itemize
 \noindent
-pplication.
+
+\emph on
+Respect for persons: 
+\emph default
+Individuals should be treated as autonomous agents (they can make their
+ own decisions and choices), persons with diminished responsibilities are
+ entitled to protection.
+\end_layout
+
+\begin_layout Itemize
+
+\emph on
+Beneficence
+\emph default
+: The obligation to do no harm, and to maximise the benefits and reduce
+ the risk.
+\end_layout
+
+\begin_layout Itemize
+
+\emph on
+Justic
+\emph default
+e: Do no not deny benefits or impose burdens of research to people without
+ good reaosn.
+\end_layout
+
+\begin_layout Paragraph
+
+\emph on
+Informed consent
+\end_layout
+
+\begin_layout Standard
+The participants should choose what does and does not happen to them.
+ There are three core elements to informed consent.
+\end_layout
+
+\begin_layout Itemize
+
+\emph on
+Information
+\emph default
+: Participants should have access to the risks or benefits of the research;
+ the ability to ask questions and withdraw at any time.
+\end_layout
+
+\begin_layout Itemize
+
+\emph on
+Comprehension: 
+\emph default
+Information must be provided in a coherent manner which would not curtail
+ the participants ability to make an informed decision.
+ It is your responsibility to ensure that they have comprehended the information.
+\end_layout
+
+\begin_layout Itemize
+
+\emph on
+Agreement to Participate: 
+\emph default
+Valid if given voluntarily and not through coercion or threat, or undue
+ influence such as an improper reward (eg a bribe).
+\end_layout
+
+\begin_layout Standard
+\begin_inset Separator plain
+\end_inset
+
+
+\end_layout
+
+\begin_layout Part
+
+\emph on
+UML Models
+\end_layout
+
+\begin_layout Subsection
+
+\emph on
+UML Case Diagrams
 \end_layout
 
 \begin_layout Itemize
@@ -844,7 +969,7 @@ https://www.uml-diagrams.org/uml-25-diagrams.html
 
 \end_layout
 
-\begin_layout Section
+\begin_layout Part
 \noindent
 
 \emph on
@@ -859,7 +984,7 @@ Data Analysis and Statistics
 
 \end_layout
 
-\begin_layout Section
+\begin_layout Part
 \noindent
 
 \emph on
@@ -874,7 +999,7 @@ Idea Development
 
 \end_layout
 
-\begin_layout Section
+\begin_layout Part
 \noindent
 
 \emph on
