@@ -78,6 +78,7 @@
 \begin_body
 
 \begin_layout Standard
+\noindent
 \begin_inset CommandInset toc
 LatexCommand tableofcontents
 
@@ -87,6 +88,7 @@ LatexCommand tableofcontents
 \end_layout
 
 \begin_layout Standard
+\noindent
 \begin_inset Newpage newpage
 \end_inset
 
@@ -94,12 +96,14 @@ LatexCommand tableofcontents
 \end_layout
 
 \begin_layout Section
+\noindent
 
 \emph on
 Agile Software Development
 \end_layout
 
 \begin_layout Standard
+\noindent
 The 
 \emph on
 Manifesto for Agile Software Development 
@@ -108,72 +112,84 @@ is based on 12 principles:
 \end_layout
 
 \begin_layout Enumerate
+\noindent
 
 \series bold
 Customer Satisfaction by early and continuous delivery of valuable software.
 \end_layout
 
 \begin_layout Enumerate
+\noindent
 
 \series bold
 Welcome changing requirements, even in late development.
 \end_layout
 
 \begin_layout Enumerate
+\noindent
 
 \series bold
 Deliver working software frequently.
 \end_layout
 
 \begin_layout Enumerate
+\noindent
 
 \series bold
 Close, daily cooperation between business people and developers.
 \end_layout
 
 \begin_layout Enumerate
+\noindent
 
 \series bold
 Projects are built around motivated individuals who should be trusted.
 \end_layout
 
 \begin_layout Enumerate
+\noindent
 
 \series bold
 Face to face conversation is the best form of communication.
 \end_layout
 
 \begin_layout Enumerate
+\noindent
 
 \series bold
 Working software is the primary measure of progress.
 \end_layout
 
 \begin_layout Enumerate
+\noindent
 
 \series bold
 Sustainable development, able to maintain a constant pace.
 \end_layout
 
 \begin_layout Enumerate
+\noindent
 
 \series bold
 Continuous attention to technical excellence and good design.
 \end_layout
 
 \begin_layout Enumerate
+\noindent
 
 \series bold
 Simplicity - the art of maximising the amount of work not done is essential
 \end_layout
 
 \begin_layout Enumerate
+\noindent
 
 \series bold
 Best architectures and designsemerge from self organising teams.
 \end_layout
 
 \begin_layout Enumerate
+\noindent
 
 \series bold
 The team regularly reflects on how to become more effective and adjusts
@@ -181,83 +197,99 @@ The team regularly reflects on how to become more effective and adjusts
 \end_layout
 
 \begin_layout Standard
+\noindent
 
 \emph on
 How can one enforce Agile Software Development?
 \end_layout
 
 \begin_layout Itemize
+\noindent
 Break product development into small increments that minimise the amount
  of up front planning and designs.
 \end_layout
 
 \begin_layout Itemize
+\noindent
 Enforce iterations or sprints, which involves a multi-disciplinary team
  working on: planning, analysis, design, coding, unit testing, and acceptance
  testing.
 \end_layout
 
 \begin_layout Itemize
+\noindent
 Fail often and fail early with incremental development; working software
  is the primary measure of progress.
 \end_layout
 
 \begin_layout Itemize
+\noindent
 Enforce Face to face communication with team members and stakeholders.
 \end_layout
 
 \begin_deeper
 \begin_layout Itemize
+\noindent
 Delegate a customer representative to act on behalf of the opinions of stakehold
 ers.
 \end_layout
 
 \begin_layout Itemize
+\noindent
 Customer opinions determine the direction of the next sprint / workflow.
 \end_layout
 
 \end_deeper
 \begin_layout Itemize
+\noindent
 Daily standup: 15 minute session where members collectively review how they
  are progressing towards their goal, and note criticisms and improvements.
  
 \end_layout
 
 \begin_layout Itemize
+\noindent
 Focus on quality of architecture:
 \end_layout
 
 \begin_deeper
 \begin_layout Itemize
+\noindent
 Continuous integration.
 \end_layout
 
 \begin_layout Itemize
+\noindent
 Unit testing, test driven development.
 \end_layout
 
 \begin_layout Itemize
+\noindent
 Pair programming.
 \end_layout
 
 \begin_layout Itemize
+\noindent
 Enforcing design patterns onto the architecture.
 \end_layout
 
 \end_deeper
 \begin_layout Standard
+\noindent
 
 \emph on
 Where is ASD appropriate?
 \end_layout
 
 \begin_layout Itemize
+\noindent
 Complex systems with dynamic, non deterministic and non linear characteristics,
  since accurate estimates and stable plans are hard to get in early stages.
  
 \end_layout
 
 \begin_layout Itemize
+\noindent
 In a desire to reduce the 
 \emph on
 leap of faith 
@@ -267,6 +299,7 @@ nt.
 \end_layout
 
 \begin_layout Standard
+\noindent
 \begin_inset Separator plain
 \end_inset
 
@@ -274,6 +307,7 @@ nt.
 \end_layout
 
 \begin_layout Standard
+\noindent
 \begin_inset Newpage newpage
 \end_inset
 
@@ -281,12 +315,14 @@ nt.
 \end_layout
 
 \begin_layout Section
+\noindent
 
 \emph on
 Legal, Ethical and Professional Conduct
 \end_layout
 
 \begin_layout Standard
+\noindent
 There are a number of 
 \emph on
 standards 
@@ -296,61 +332,319 @@ which highlight a set of axioms by which software engineers should operate,
 \end_layout
 
 \begin_layout Subsection
+\noindent
 
 \emph on
 ACM (Association for Computing Machinery) [58,68]
 \end_layout
 
 \begin_layout Subsection
+\noindent
 
 \emph on
 IEEE [69,74]
 \end_layout
 
 \begin_layout Standard
+\noindent
 IEEE enforces 8 practices which software engineers should take with regards
  to ethics and professional practices.
 \end_layout
 
 \begin_layout Subsection
+\noindent
 
 \emph on
 BSS [75,77]
 \end_layout
 
 \begin_layout Standard
+\noindent
 BSS enforces four key principles which serve as a code of conduct for profession
 alism to software engineers.
 \end_layout
 
-\begin_layout Standard
-\begin_inset Newpage newpage
-\end_inset
-
-
-\end_layout
-
-\begin_layout Section
+\begin_layout Subsection
+\noindent
 
 \emph on
-UML Models
+Research Ethics [158,159]
 \end_layout
 
-\begin_layout Subsection
-UML Case Diagrams
+\begin_layout Subsubsection
+\noindent
+
+\emph on
+EIRA [https://moodle.bath.ac.uk/pluginfile.php/1469988/mod_resource/content/6/EIRA1%
+20information%20CC.pdf]
 \end_layout
 
 \begin_layout Standard
-UML Models encapsulate the workflow of your application.
+\noindent
+Engaging with research involves ethical, legal and professional considerations.
 \end_layout
 
 \begin_layout Itemize
+\noindent
+The University of Bath requires the EIRA1 electronic form to be completed
+ and submitted for review for all projects that involve human participants.
+\end_layout
+
+\begin_layout Itemize
+\noindent
+We are expected to act with 
+\series bold
+Scientific Integrity
+\series default
+, which enforces the following principles:
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+\noindent
+
+\series bold
+Honesty: 
+\series default
+The work you present must be clear and your intentions must be accurate.
+ Interpretations of data should be clear, and justifications of data; acknowledi
+ng sources, and honesty in the farming of data.
+\end_layout
+
+\begin_layout Itemize
+\noindent
+
+\series bold
+Rigour: 
+\series default
+Research to be rigorous and explore and exhaust all nodes.
+\end_layout
+
+\begin_layout Itemize
+\noindent
+
+\series bold
+Transparency and open communication: 
+\series default
+highlight limitations of studies and negative results.
+ Must be transparent in your methodologies, and share criticisms as part
+ of the research process.
+\end_layout
+
+\begin_layout Itemize
+\noindent
+
+\series bold
+Care and respect
+\series default
+: to all beneficiaries of the experiment, including animals, environments
+ and cultural objects.
+\end_layout
+
+\begin_layout Itemize
+\noindent
+
+\series bold
+Accountability: 
+\series default
+Individuals are held to account when their behaviour falls short of the
+ standards we set.
+\end_layout
+
+\end_deeper
+\begin_layout Subsubsection
+\noindent
+
+\series bold
+Misconduct types:
+\end_layout
+
+\begin_layout Itemize
+\noindent
+
+\series bold
+Falsification: 
+\series default
+Manipulating research, equipments or process; changing data to fit narratives
+ or other goal without any justification.
+ Remember, negative and null results are valid; it is a skill to show negative
+ results in a positive light so as to learn from them.
+\end_layout
+
+\begin_layout Itemize
+\noindent
+
+\series bold
+Plaigarism: 
+\series default
+Using other peoples work and ideas without giving proper credit to the original
+ source.
+ Violates the rights of the authors to their intellectual output.
+ 
+\end_layout
+
+\begin_layout Itemize
+\noindent
+
+\series bold
+Fabrication: 
+\series default
+Making up results and recording them as though they were real.
+ 
+\end_layout
+
+\begin_layout Subsubsection
+\noindent
+
+\series bold
+Code of Ethics:
+\end_layout
+
+\begin_layout Itemize
+\noindent
+
+\series bold
+BCS 
+\series default
+is a Chartered Institute for IT, and is known as an independant professional
+ body.
+ BCS enforces four key principles:
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+\noindent
+You make IT/ software for everyone.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+\noindent
+Address wider societal issues, and upholding standards by conducting yourself
+ professionally and fairly at all times, to make software accessible.
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+\noindent
+Show what you know, learn what you don't.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+\noindent
+Keep on learning, continuously learn and develop yourself.
+ You must know the boundaries of what you do or don't know.
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+\noindent
+Respect the organisation or individual you work for.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+\noindent
+Work with due care and diligence while taking personal and collective responsibi
+lity for your actions; musn't work with conflicts of interest.
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+\noindent
+Keep IT real.
+ Keep IT professional.
+ Pass IT on.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+\noindent
+Uphold the reputation of the profession and encourage others to grow.
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Itemize
+\noindent
+
+\series bold
+ACM (Association for Computing Machinery)
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+\noindent
+Worlds largest computing society.
+\end_layout
+
+\begin_layout Itemize
+\noindent
+Activities to support professional growth.
+\end_layout
+
+\begin_layout Itemize
+\noindent
+
+\series bold
+General Ethical Principles:
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+\noindent
+Contribute to society and to human well being, acknowleding that all people
+ are stakeholders in computing.
+\end_layout
+
+\begin_layout Itemize
+\noindent
+Avoid harm.
+\end_layout
+
+\begin_layout Itemize
+\noindent
+Be honest and trustworthy.
+\end_layout
+
+\begin_layout Itemize
+\noindent
+Be fair and take action not to discriminate.
+\end_layout
+
+\begin_layout Itemize
+\noindent
+Respect the work required to produce new ideas, inventions, creative works,
+ and computing artifacts.
+\end_layout
+
+\begin_layout Itemize
+\noindent
+Respect privacy.
+\end_layout
+
+\begin_layout Itemize
+\noindent
+Honor confidentiality.
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Standard
+\noindent
+pplication.
+\end_layout
+
+\begin_layout Itemize
+\noindent
 All application events are inside a box.
  All external interactions which produce these events are outside of the
  box.
 \end_layout
 
 \begin_layout Itemize
+\noindent
 
 \series bold
 Actors 
@@ -359,6 +653,7 @@ produce events, in which case a line is drawn from the actor to the event(s).
 \end_layout
 
 \begin_layout Itemize
+\noindent
 
 \series bold
 Events 
@@ -367,6 +662,7 @@ are drawn in circles.
 \end_layout
 
 \begin_layout Itemize
+\noindent
 
 \series bold
 Event chains 
@@ -376,6 +672,7 @@ are defined by:
 
 \begin_deeper
 \begin_layout Itemize
+\noindent
 <<include>>, which 
 \begin_inset Formula $\implies$
 \end_inset
@@ -384,6 +681,7 @@ are defined by:
 \end_layout
 
 \begin_layout Itemize
+\noindent
 <<extend>>, which could be 
 \begin_inset Formula $\implies$
 \end_inset
@@ -393,11 +691,13 @@ are defined by:
 
 \end_deeper
 \begin_layout Itemize
+\noindent
 Events can be defined further by establishing a hierarchy which explains
  the proper subtypes of said event.
 \end_layout
 
 \begin_layout Itemize
+\noindent
 \begin_inset Graphics
 	filename UML Model.png
 	lyxscale 50
@@ -409,18 +709,21 @@ Events can be defined further by establishing a hierarchy which explains
 \end_layout
 
 \begin_layout Subsection
+\noindent
 
 \emph on
 UML Sequence Diagrams
 \end_layout
 
 \begin_layout Standard
+\noindent
 UML Sequence Diagrams are a type of UQL diagram show how classes in code
  interact with each other, in order, namely the sequence of events.
  Used to document processes and understand the requirements of a new program.
 \end_layout
 
 \begin_layout Itemize
+\noindent
 
 \series bold
 Actors 
@@ -437,6 +740,7 @@ Objects are placed in sequential order, and are in squares.
 \end_layout
 
 \begin_layout Itemize
+\noindent
 
 \series bold
 Lifelines 
@@ -446,6 +750,7 @@ are vertical dashed lines which show the existence of the object over time
 \end_layout
 
 \begin_layout Itemize
+\noindent
 
 \series bold
 Messages 
@@ -456,6 +761,7 @@ show the messages being sent between objects.
 
 \begin_deeper
 \begin_layout Itemize
+\noindent
 
 \series bold
 Return Messages 
@@ -465,6 +771,7 @@ are dashed lines and are responses to messages.
 
 \end_deeper
 \begin_layout Itemize
+\noindent
 
 \series bold
 Alternative Frames
@@ -476,6 +783,7 @@ Alternative Frames
 
 \begin_deeper
 \begin_layout Itemize
+\noindent
 \begin_inset Graphics
 	filename UML_SEQUENCE_1.png
 	lyxscale 50
@@ -488,6 +796,7 @@ Alternative Frames
 
 \end_deeper
 \begin_layout Itemize
+\noindent
 
 \series bold
 Activation boxes 
@@ -496,6 +805,7 @@ show when and how long objects perform processes and go along the lifelines.
 \end_layout
 
 \begin_layout Itemize
+\noindent
 \begin_inset Graphics
 	filename UML_SEQUENCE_2.png
 	lyxscale 50
@@ -506,22 +816,77 @@ show when and how long objects perform processes and go along the lifelines.
 
 \end_layout
 
+\begin_layout Subsection
+\noindent
+
+\emph on
+Additional Resources
+\end_layout
+
+\begin_layout Itemize
+\noindent
+https://www.uml-diagrams.org/uml-25-diagrams.html
+\end_layout
+
+\begin_layout Standard
+\noindent
+\begin_inset Separator plain
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\noindent
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
 \begin_layout Section
+\noindent
 
 \emph on
 Data Analysis and Statistics
 \end_layout
 
+\begin_layout Standard
+\noindent
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
 \begin_layout Section
+\noindent
 
 \emph on
 Idea Development
 \end_layout
 
+\begin_layout Standard
+\noindent
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
 \begin_layout Section
+\noindent
 
 \emph on
 Stakeholder Engagement
+\end_layout
+
+\begin_layout Standard
+\noindent
+\begin_inset Newpage newpage
+\end_inset
+
+
 \end_layout
 
 \end_body

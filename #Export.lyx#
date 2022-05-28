@@ -323,25 +323,206 @@ BSS enforces four key principles which serve as a code of conduct for profession
 alism to software engineers.
 \end_layout
 
-\begin_layout Standard
-\begin_inset Newpage newpage
-\end_inset
-
-
-\end_layout
-
-\begin_layout Section
+\begin_layout Subsection
 
 \emph on
-UML Models
+Research Ethics [158,159]
 \end_layout
 
-\begin_layout Subsection
-UML Case Diagrams
+\begin_layout Subsubsection
+
+\emph on
+EIRA [https://moodle.bath.ac.uk/pluginfile.php/1469988/mod_resource/content/6/EIRA1%
+20information%20CC.pdf]
 \end_layout
 
 \begin_layout Standard
-UML Models encapsulate the workflow of your application.
+Engaging with research involves ethical, legal and professional considerations.
+\end_layout
+
+\begin_layout Itemize
+The University of Bath requires the EIRA1 electronic form to be completed
+ and submitted for review for all projects that involve human participants.
+\end_layout
+
+\begin_layout Itemize
+We are expected to act with 
+\series bold
+Scientific Integrity
+\series default
+, which enforces the following principles:
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+
+\series bold
+Honesty: 
+\series default
+The work you present must be clear and your intentions must be accurate.
+ Interpretations of data should be clear, and justifications of data; acknowledi
+ng sources, and honesty in the farming of data.
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Rigour: 
+\series default
+Research to be rigorous and explore and exhaust all nodes.
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Transparency and open communication: 
+\series default
+highlight limitations of studies and negative results.
+ Must be transparent in your methodologies, and share criticisms as part
+ of the research process.
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Care and respect
+\series default
+: to all beneficiaries of the experiment, including animals, environments
+ and cultural objects.
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Accountability: 
+\series default
+Individuals are held to account when their behaviour falls short of the
+ standards we set.
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\series bold
+Misconduct types:
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+
+\series bold
+Falsification: 
+\series default
+Manipulating research, equipments or process; changing data to fit narratives
+ or other goal without any justification.
+ Remember, negative and null results are valid; it is a skill to show negative
+ results in a positive light so as to learn from them.
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Plaigarism: 
+\series default
+Using other peoples work and ideas without giving proper credit to the original
+ source.
+ Violates the rights of the authors to their intellectual output.
+ 
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Fabrication: 
+\series default
+Making up results and recording them as though they were real.
+ 
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\series bold
+Code of Ethics:
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+
+\series bold
+BCS 
+\series default
+is a Chartered Institute for IT, and is known as an independant professional
+ body.
+ BCS enforces four key principles:
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+You make IT/ software for everyone.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Address wider societal issues, and upholding standards by conducting yourself
+ professionally and fairly at all times, to make software accessible.
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+Show what you know, learn what you don't.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Keep on learning, continuously learn and develop yourself.
+ You must know the boundaries of what you do or don't know.
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+Respect the organisation or individual you work for.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Work with due care and diligence while taking personal and collective responsibi
+lity for your actions; musn't work with conflicts of interest.
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+Keep IT real.
+ Keep IT professional.
+ Pass IT on.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Uphold the reputation of the profession and encourage others to grow.
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Itemize
+
+\series bold
+ACM (Association for Computing Machinery)
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Worlds largest computing society.
+\end_layout
+
+\begin_layout Itemize
+Activities to support professional gr
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Standard
+pplication.
 \end_layout
 
 \begin_layout Itemize
