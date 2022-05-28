@@ -86,7 +86,7 @@ LatexCommand tableofcontents
 
 \end_layout
 
-\begin_layout Section
+\begin_layout Section*
 
 \emph on
 Agile Software Development
@@ -259,7 +259,7 @@ that is needed before any evidence of value can be obtained, in system developme
 nt.
 \end_layout
 
-\begin_layout Section
+\begin_layout Section*
 
 \emph on
 Legal, Ethical and Professional Conduct
@@ -274,7 +274,7 @@ which highlight a set of axioms by which software engineers should operate,
  to encourage ethical and legal behaviour:
 \end_layout
 
-\begin_layout Subsection
+\begin_layout Subsection*
 
 \emph on
 ACM (Association for Computing Machinery)
@@ -286,19 +286,19 @@ ACM (Association for Computing Machinery)
 UML Models
 \end_layout
 
-\begin_layout Section
+\begin_layout Section*
 
 \emph on
 Data Analysis and Statistics
 \end_layout
 
-\begin_layout Section
+\begin_layout Section*
 
 \emph on
 Idea Development
 \end_layout
 
-\begin_layout Section
+\begin_layout Section*
 
 \emph on
 Stakeholder Engagement

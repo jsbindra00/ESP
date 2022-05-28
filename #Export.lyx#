@@ -77,16 +77,7 @@
 
 \begin_body
 
-\begin_layout Standard
-\begin_inset CommandInset toc
-LatexCommand tableofcontents
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Section
+\begin_layout Part*
 
 \emph on
 Agile Software Development
@@ -259,46 +250,31 @@ that is needed before any evidence of value can be obtained, in system developme
 nt.
 \end_layout
 
-\begin_layout Section
+\begin_layout Part*
 
 \emph on
 Legal, Ethical and Professional Conduct
 \end_layout
 
-\begin_layout Standard
-There are a number of 
-\emph on
-standards 
-\emph default
-which highlight a set of axioms by which software engineers should operate,
- to encourage ethical and legal behaviour:
-\end_layout
-
-\begin_layout Subsection
-
-\emph on
-ACM (Association for Computing Machinery)
-\end_layout
-
-\begin_layout Section
+\begin_layout Part*
 
 \emph on
 UML Models
 \end_layout
 
-\begin_layout Section
+\begin_layout Part*
 
 \emph on
 Data Analysis and Statistics
 \end_layout
 
-\begin_layout Section
+\begin_layout Part*
 
 \emph on
 Idea Development
 \end_layout
 
-\begin_layout Section
+\begin_layout Part*
 
 \emph on
 Stakeholder Engagement
