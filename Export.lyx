@@ -277,13 +277,103 @@ which highlight a set of axioms by which software engineers should operate,
 \begin_layout Subsection
 
 \emph on
-ACM (Association for Computing Machinery)
+ACM (Association for Computing Machinery) [58,68]
+\end_layout
+
+\begin_layout Subsection
+
+\emph on
+IEEE [69,74]
+\end_layout
+
+\begin_layout Standard
+IEEE enforces 8 practices which software engineers should take with regards
+ to ethics and professional practices.
+\end_layout
+
+\begin_layout Subsection
+
+\emph on
+BSS [75,77]
+\end_layout
+
+\begin_layout Standard
+BSS enforces four key principles which serve as a code of conduct for profession
+alism to software engineers.
 \end_layout
 
 \begin_layout Section
 
 \emph on
 UML Models
+\end_layout
+
+\begin_layout Standard
+UML Models encapsulate the workflow of your application.
+\end_layout
+
+\begin_layout Itemize
+All application events are inside a box.
+ All external interactions which produce these events are outside of the
+ box.
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Actors 
+\series default
+produce events, in which case a line is drawn from the actor to the event(s).
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Events 
+\series default
+are drawn in circles.
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Event chains 
+\series default
+are defined by:
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+<<include>>, which 
+\begin_inset Formula $\implies$
+\end_inset
+
+ the next event.
+\end_layout
+
+\begin_layout Itemize
+<<extend>>, which could be 
+\begin_inset Formula $\implies$
+\end_inset
+
+ the next event.
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+Events can be defined further by establishing a hierarchy which explains
+ the proper subtypes of said event.
+\end_layout
+
+\begin_layout Itemize
+\begin_inset Graphics
+	filename UML Model.png
+	lyxscale 50
+	scale 50
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Section

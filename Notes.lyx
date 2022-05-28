@@ -804,11 +804,104 @@ There may not be a clearly defined population of interest.
 \begin_layout Standard
 
 \series bold
-Response sizes
+Organising stakeholder requirements
+\end_layout
+
+\begin_layout Standard
+.
+\end_layout
+
+\begin_layout Standard
+.
+\end_layout
+
+\begin_layout Standard
+.
+\end_layout
+
+\begin_layout Standard
+.
+\end_layout
+
+\begin_layout Standard
+.
 \end_layout
 
 \begin_layout Standard
 
+\series bold
+UML case diagrams
+\end_layout
+
+\begin_layout Itemize
+Actors drive events.
+\end_layout
+
+\begin_layout Itemize
+Everything encased within a box represnts the application.
+\end_layout
+
+\begin_layout Itemize
+Events / application stages are in circles.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Actors can produce these events by the following relationships:
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Includes: An event implies another event.
+\end_layout
+
+\begin_layout Itemize
+Extends: An event sometimes implies another event.
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Standard
+\begin_inset Separator plain
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+..
+\end_layout
+
+\begin_layout Standard
+.
+\end_layout
+
+\begin_layout Standard
+.
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Testing
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Statistical Analysis
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Ethical Concerns
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Agile Development
 \end_layout
 
 \end_body

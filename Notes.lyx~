@@ -657,5 +657,159 @@ Criticism is important, don't get so defensive.
 \end_deeper
 \end_deeper
 \end_deeper
+\begin_layout Standard
+\begin_inset Separator plain
+\end_inset
+
+
+\end_layout
+
+\begin_layout Part*
+
+\emph on
+Introduction to Engaging Stakeholders [106,]
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+What is a stakeholder?
+\end_layout
+
+\begin_layout Standard
+A person, group or company that is directly or indirectly involved in the
+ project and who may affect or get affected by the outcome of the project.
+\end_layout
+
+\begin_layout Subsection*
+
+\series bold
+Stakeholder Enagement Plan (SEP)
+\end_layout
+
+\begin_layout Itemize
+Defines systematically why, what, who, how, when and where.
+\end_layout
+
+\begin_layout Itemize
+Records the team's decisions and verification that issues were thought out,
+ dealt with and verified.
+\end_layout
+
+\begin_layout Itemize
+Ensures that the engagement will run smoothly and that the obtained data
+ can be analysed in a meaningful way.
+\end_layout
+
+\begin_layout Enumerate
+
+\series bold
+Context Definition
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Describe the problem and proposed solution 
+\series bold
+early on 
+\end_layout
+
+\begin_layout Enumerate
+Describe the system / product features, indicate target users and details
+ of where the system or product will be used
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+\begin_inset Separator plain
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Qualitative Analysis of Data
+\end_layout
+
+\begin_layout Subsection*
+Sampling
+\end_layout
+
+\begin_layout Standard
+There are two major types of sampling methods:
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Probablistic sampling
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Census: 
+\series default
+Every single person in the targeted user population is chosen to take part
+ in the survey.
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Random Sample: 
+\series default
+Not all people are chosen to participate, but it is known what the liklihood
+ of being chosen to participate.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Separator plain
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Non Probablistic sampling
+\end_layout
+
+\begin_layout Itemize
+You do not or cannot use a strict random sample.
+\end_layout
+
+\begin_layout Itemize
+You don't know the likelihood of an individual being selected.
+\end_layout
+
+\begin_layout Itemize
+You are not interested in population estimate.
+\end_layout
+
+\begin_layout Itemize
+There may not be a clearly defined population of interest.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Separator plain
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Response sizes
+\end_layout
+
+\begin_layout Standard
+
+\end_layout
+
 \end_body
 \end_document
