@@ -1,0 +1,661 @@
+#LyX 2.3 created this file. For more info see http://www.lyx.org/
+\lyxformat 544
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass article
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\use_microtype false
+\use_dash_ligatures true
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref false
+\papersize default
+\use_geometry false
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\use_minted 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\is_math_indent 0
+\math_numbering_side default
+\quotes_style english
+\dynamic_quotes 0
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+CM20314 Notes
+\end_layout
+
+\begin_layout Part*
+
+\emph on
+Software Engineering Definition[36]
+\end_layout
+
+\begin_layout Itemize
+The application of a systematic, disciplined, quantifiable approach to the
+ develpoment, operation and maintenance of software, that is, the application
+ of engineering to software.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Separator plain
+\end_inset
+
+
+\end_layout
+
+\begin_layout Part*
+
+\emph on
+ACM (Association for Computing Machinery) [58,68]
+\end_layout
+
+\begin_layout Itemize
+Computing professionals should act responsibily, they should reflect on
+ the wider impacts of their work consistently supporting the public good.
+ 
+\end_layout
+
+\begin_layout Itemize
+The ACM Code of Ethics and Professional Conduct expresses the conscience
+ of the profession.
+\end_layout
+
+\begin_layout Itemize
+Enforces ethical conduct onto computing professionals.
+\end_layout
+
+\begin_layout Itemize
+Serves asa basis for remdiation when violations occur.
+ Enforces our duty owards public good as a primary consideration.
+ 
+\end_layout
+
+\begin_layout Standard
+ACM Code of Ethics and Professional Conduct; a computing professional should:
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Contribute to society and to human well being, acknowleding that all people
+ are stakeholders in computing.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Use skills for the benefit of society and environment.
+\end_layout
+
+\begin_layout Itemize
+Promote fundamental human rights.
+\end_layout
+
+\begin_layout Itemize
+Minimise threats to health, safety, personal security and privacy in minimising
+ the negative consequences of computing.
+\end_layout
+
+\begin_layout Itemize
+Encourages equity (not equality) among groups.
+\end_layout
+
+\begin_layout Itemize
+Promote environmental sustainability locally and globally.
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\series bold
+Avoid harm
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+(Avoid negative consequences) especially if significant and unjust.
+\end_layout
+
+\begin_layout Itemize
+When harm is unintended, you must undo or mitigate the harm as much as possible.
+\end_layout
+
+\begin_layout Itemize
+Report any signs of system risks that may result in harm
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\series bold
+Be honest and trustworthy
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Be transparent; provide full disclosure of system vulnerabilities, capabilities,
+ limitations, and potential problems to the appropriate parties.
+\end_layout
+
+\begin_layout Itemize
+Be honest about qualifications and any circumstances that might lead to
+ conflicts of interest.
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\series bold
+Be fair and take action not to discriminate
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Foster fair participation of all people; encourage equity.
+ 
+\end_layout
+
+\begin_layout Itemize
+Tech and practices should be as inclusive and accessible and possible; avoid
+ making systems that oppress people.
+\end_layout
+
+\begin_layout Itemize
+Design for inclusiveness and accessibility.
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\series bold
+Respect the work required to produce new ideas, inventions, creative works
+ and computing artifacts
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Give credit where it is due, respectig copyrights, patents etc.
+\end_layout
+
+\begin_layout Itemize
+Don't claim ownership of work that isn't yours.
+\end_layout
+
+\end_deeper
+\begin_layout Part*
+
+\emph on
+ACM + IEEE [69,74]
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Software engineering ethics and professional practices
+\end_layout
+
+\begin_layout Standard
+Let 
+\begin_inset Formula $SE=\text{Software Engineer}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Public: 
+\series default
+SE's should act consistently with public interest.
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Client and employer: 
+\series default
+SE's act in manner that conforms to interest of client, employer, and public
+ interest.
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Product: 
+\series default
+Ensure products meet highest possible standards.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Identify, define and address ethical, economic, cultural, legal and environmenta
+l issues related to work projects.
+\end_layout
+
+\begin_layout Itemize
+Enforce testing, debugging, review of software.
+\end_layout
+
+\begin_layout Itemize
+Software should respect privacy of those affected.
+\end_layout
+
+\begin_layout Itemize
+Only use ethically sourced data.
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\series bold
+Judgement: 
+\series default
+Maintain integrity and independence in their professional judgement
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Management: 
+\series default
+Enforce an ethical approach to the management of software dev 
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Profession: 
+\series default
+Advance integrity and rep of profession with public interest.
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Colleagues: 
+\series default
+Be fair and support to colleagues.
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Self: 
+\series default
+Lifelong learning regarding practice of profession; promote an ethical approach
+ to it.
+\end_layout
+
+\begin_layout Part*
+
+\emph on
+BCS [75,77]
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Public Interest: 
+\series default
+You make sotware for everyone; act in public interest.
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Professional competence and integrity: 
+\series default
+Show what you know and learn what you don't
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Duty to authority: 
+\series default
+Respect organisation or individual you work for.
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Duty to the profession: 
+\series default
+Keep professional and spread best practices.
+\end_layout
+
+\begin_layout Part*
+
+\emph on
+Human Centered Design [78,105]
+\end_layout
+
+\begin_layout Itemize
+An iterative design process in which designers focus on theu users and their
+ needs in each phase of the design process.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Involves users throughout the design process to create usable, accessible
+ and useful products.
+\end_layout
+
+\begin_layout Itemize
+Projects are based on understanding of users and environments.
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+Poverty, gender equality, climate change, social injustice makes HCD a dynamic
+ problem to solve as their isn't a concrete stopping point; multivariate
+ problem.
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Design Thinking five-stage model: Empathise, Define, Ideate, Prototype,
+ Test
+\end_layout
+
+\begin_layout Standard
+Proposed by the Institute of Design at Stanford
+\end_layout
+
+\begin_layout Enumerate
+
+\series bold
+Empathise
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+
+\series bold
+Interview the user
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Design something useful and meaningful for your user; you must gain empaty
+ for that person.
+ Conduct 1-1 interviews, surveys, ethnographies, diaries and observe their
+ needs.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+
+\series bold
+Dig deeper
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Ask why and what even when you know the answer (from your interviews).
+\end_layout
+
+\begin_layout Enumerate
+Encourage anecdotes and stories.
+\end_layout
+
+\begin_layout Enumerate
+Pay attention to body language and emotions.
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Enumerate
+
+\series bold
+Define
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+
+\series bold
+Capture Findings
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Identify their needs
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Physical and emotional.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Identify some insights.
+\end_layout
+
+\begin_layout Enumerate
+Why-How laddering; select a few meaningful user needs, and recursively ask
+ Why and How.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+
+\series bold
+Take a stand with a point of view.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Outline, anchor and scope your project.
+\end_layout
+
+\begin_layout Enumerate
+Choose user specific insight.
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Enumerate
+
+\series bold
+Ideate: 
+\series default
+Represents a mental process of branching to new ideas or going wide; exploring
+ a vast solution space.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Sketch, go for volume.
+ As many ideas as you can.
+\end_layout
+
+\begin_layout Enumerate
+
+\series bold
+Techniques
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Prune the idea tree by
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Voting
+\end_layout
+
+\begin_layout Enumerate
+Fitting to categories:
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+The rational choice
+\end_layout
+
+\begin_layout Enumerate
+The most likely to delight
+\end_layout
+
+\begin_layout Enumerate
+The daring
+\end_layout
+
+\begin_layout Enumerate
+The long shot
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Form Factors: pic ideas that inspire:
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Physical prototype
+\end_layout
+
+\begin_layout Enumerate
+Digital prototype
+\end_layout
+
+\begin_layout Enumerate
+Experience prototype.
+\end_layout
+
+\end_deeper
+\end_deeper
+\end_deeper
+\begin_layout Enumerate
+
+\series bold
+Share solutions, capture feedback
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Listen to your user feedback.
+ You need criticism.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Now that you have criticism, and user needs, refine an idea and coverge
+ to a solution.
+\end_layout
+
+\end_deeper
+\end_deeper
+\end_deeper
+\begin_layout Enumerate
+
+\series bold
+Prototype: 
+\series default
+Getting ideas and explorations out of our head into the physical world.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+
+\series bold
+Build
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Create a prototype of your solution.
+\end_layout
+
+\begin_layout Enumerate
+Create something engaging.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+
+\series bold
+Test
+\series default
+: A chance to refine solutons and make them better.
+ It's an iterative process.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+
+\series bold
+Share solutions, and get feedback.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Criticism is important, don't get so defensive.
+\end_layout
+
+\end_deeper
+\end_deeper
+\end_deeper
+\end_body
+\end_document
