@@ -376,13 +376,39 @@ Honor confidentiality.
 \noindent
 
 \emph on
-IEEE [69,74]
+IEEE 
+\series bold
+(Institute of Electrical and Electronics Engineers)
+\series default
+ [69,74]
 \end_layout
 
 \begin_layout Standard
 \noindent
-IEEE enforces 8 practices which software engineers should take with regards
- to ethics and professional practices.
+IEEE is the worlds largest techincal professional organisation which enforces
+ 8 practices which software engineers should take with regards to ethics
+ and professional practices.
+\end_layout
+
+\begin_layout Subsection
+
+\series bold
+\emph on
+IEE Code of Ethics.
+\end_layout
+
+\begin_layout Itemize
+Upload the highest standards of integrity, responsible behaviour and ethical
+ conduct in professional activities.
+\end_layout
+
+\begin_layout Itemize
+Treat all persons fairly and with respect, to not engage in harassment or
+ discrimination, and to avoid injuring others.
+\end_layout
+
+\begin_layout Itemize
+Strive to ensure code is upheld by colleagues and co-workers.
 \end_layout
 
 \begin_layout Section
@@ -404,6 +430,14 @@ BCS
 is a Chartered Institute for IT, and is known as an independant professional
  body.
  BCS enforces four key principles:
+\end_layout
+
+\begin_layout Subsection
+\noindent
+
+\series bold
+\emph on
+General Ethical Principles:
 \end_layout
 
 \begin_layout Itemize
@@ -459,14 +493,14 @@ Uphold the reputation of the profession and encourage others to grow.
 \end_layout
 
 \end_deeper
-\begin_layout Subsection
+\begin_layout Section
 \noindent
 
 \emph on
 Research Ethics [158,159]
 \end_layout
 
-\begin_layout Subsubsection
+\begin_layout Subsection
 \noindent
 
 \emph on
@@ -483,6 +517,12 @@ Engaging with research involves ethical, legal and professional considerations.
 \noindent
 The University of Bath requires the EIRA1 electronic form to be completed
  and submitted for review for all projects that involve human participants.
+\end_layout
+
+\begin_layout Subsection
+
+\emph on
+Scientific Integrity
 \end_layout
 
 \begin_layout Itemize
@@ -559,7 +599,7 @@ Individuals are held to account when their behaviour falls short of the
 \end_layout
 
 \end_deeper
-\begin_layout Subsubsection
+\begin_layout Subsection
 \noindent
 
 \emph on
@@ -609,53 +649,6 @@ Making up results and recording them as though they were real.
  
 \end_layout
 
-\begin_layout Subsubsection
-\noindent
-
-\emph on
-Code of Ethics:
-\end_layout
-
-\begin_layout Itemize
-
-\series bold
-\emph on
-IEEE (Institute of Electrical and Electronics Engineers)
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-Worlds largest technical professional organisation.
-\end_layout
-
-\begin_layout Itemize
-International standards and activities to support professional growth.
-\end_layout
-
-\begin_layout Itemize
-
-\series bold
-\emph on
-IEE Code of Ethics.
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-Upload the highest standards of integrity, responsible behaviour and ethical
- conduct in professional activities.
-\end_layout
-
-\begin_layout Itemize
-Treat all persons fairly and with respect, to not engage in harassment or
- discrimination, and to avoid injuring others.
-\end_layout
-
-\begin_layout Itemize
-Strive to ensure code is upheld by colleagues and co-workers.
-\end_layout
-
-\end_deeper
-\end_deeper
 \begin_layout Standard
 \begin_inset Separator plain
 \end_inset
@@ -667,6 +660,12 @@ Strive to ensure code is upheld by colleagues and co-workers.
 
 \emph on
 Key Principles of Human Research
+\end_layout
+
+\begin_layout Subsubsection
+
+\emph on
+Ethical Principles in Human Research
 \end_layout
 
 \begin_layout Standard
@@ -703,7 +702,7 @@ e: Do no not deny benefits or impose burdens of research to people without
  good reaosn.
 \end_layout
 
-\begin_layout Paragraph
+\begin_layout Subsubsection
 
 \emph on
 Informed consent
@@ -742,6 +741,117 @@ Valid if given voluntarily and not through coercion or threat, or undue
  influence such as an improper reward (eg a bribe).
 \end_layout
 
+\begin_layout Subsubsection
+
+\emph on
+Withdrawal
+\end_layout
+
+\begin_layout Itemize
+Participants must have the right to withdraw:
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+After having read the information sheet.
+\end_layout
+
+\begin_layout Itemize
+Part way through the study
+\end_layout
+
+\begin_layout Itemize
+After the study; 
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+When working with anonymised data, it may not be possible to extract an
+ individuals data.
+ Participants must be made aware of this, and depending on how the data
+ is anonymised, you may want to consider a 
+\emph on
+grace period 
+\emph default
+where you can give participants to withdraw their data, after which the
+ data will be anonymised.
+\end_layout
+
+\begin_layout Subsubsection
+
+\emph on
+Data
+\end_layout
+
+\begin_layout Itemize
+Only collect data that is absolutely necessary.
+\end_layout
+
+\begin_layout Itemize
+Clearly tell participants what you are recording and why.
+ You must provide consent if you use images in publications and reports.
+\end_layout
+
+\begin_layout Itemize
+Anonymise the data if possible (pixelating images).
+\end_layout
+
+\begin_layout Itemize
+Secure storage of data.
+\end_layout
+
+\begin_layout Subsubsection
+
+\emph on
+Recruitment of Participants
+\end_layout
+
+\begin_layout Itemize
+Use emails, social media, posters, word of mouth.
+\end_layout
+
+\begin_layout Itemize
+You musn't coerce or pressurise people into taking part.
+ Compensation should be to compensate their time, not entice them.
+\end_layout
+
+\begin_layout Itemize
+Must provide fundamental information of the study such as:
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Study title
+\end_layout
+
+\begin_layout Itemize
+What will be involved, and duration of study.
+\end_layout
+
+\begin_layout Itemize
+Criteria for inclusion (eg, healthy adults 18+)
+\end_layout
+
+\begin_layout Itemize
+Compensation for their time information.
+\end_layout
+
+\begin_layout Itemize
+Contact information.
+\end_layout
+
+\end_deeper
+\begin_layout Subsubsection
+Participant Impairments
+\end_layout
+
+\begin_layout Standard
+You must consider the impairments of your participants of the study as the
+ ethical process will take longer and will be more complicated.
+ Consent could be more problematic if under 18 / those with diminished responsib
+lity.
+\end_layout
+
 \begin_layout Standard
 \begin_inset Separator plain
 \end_inset
@@ -755,7 +865,7 @@ Valid if given voluntarily and not through coercion or threat, or undue
 UML Models
 \end_layout
 
-\begin_layout Subsection
+\begin_layout Section
 
 \emph on
 UML Case Diagrams
@@ -833,7 +943,7 @@ Events can be defined further by establishing a hierarchy which explains
 
 \end_layout
 
-\begin_layout Subsection
+\begin_layout Section
 \noindent
 
 \emph on
@@ -941,7 +1051,7 @@ show when and how long objects perform processes and go along the lifelines.
 
 \end_layout
 
-\begin_layout Subsection
+\begin_layout Section
 \noindent
 
 \emph on
