@@ -86,6 +86,13 @@ LatexCommand tableofcontents
 
 \end_layout
 
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
 \begin_layout Section
 
 \emph on
@@ -259,6 +266,20 @@ that is needed before any evidence of value can be obtained, in system developme
 nt.
 \end_layout
 
+\begin_layout Standard
+\begin_inset Separator plain
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
 \begin_layout Section
 
 \emph on
@@ -302,10 +323,21 @@ BSS enforces four key principles which serve as a code of conduct for profession
 alism to software engineers.
 \end_layout
 
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
 \begin_layout Section
 
 \emph on
 UML Models
+\end_layout
+
+\begin_layout Subsection
+UML Case Diagrams
 \end_layout
 
 \begin_layout Standard
@@ -376,10 +408,139 @@ Events can be defined further by establishing a hierarchy which explains
 
 \end_layout
 
+\begin_layout Subsection
+
+\emph on
+UML Sequence Diagrams
+\end_layout
+
+\begin_layout Standard
+UML Sequence Diagrams are a type of UQL diagram show how classes in code
+ interact with each other, in order, namely the sequence of events.
+ Used to document processes and understand the requirements of a new program.
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Actors 
+\series default
+interact with 
+\series bold
+Objects
+\emph on
+.
+ 
+\series default
+\emph default
+Objects are placed in sequential order, and are in squares.
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Lifelines 
+\series default
+are vertical dashed lines which show the existence of the object over time
+ (time axis is vertical).
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Messages 
+\series default
+show the messages being sent between objects.
+ These are indicated with solid lines.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+
+\series bold
+Return Messages 
+\series default
+are dashed lines and are responses to messages.
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\series bold
+Alternative Frames
+\series default
+ are basically conditional branches, which symbolises a choice between two
+ message sequences.
+ It is encapsulated in a box around the target message sequences.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+\begin_inset Graphics
+	filename UML_SEQUENCE_1.png
+	lyxscale 50
+	scale 50
+
+\end_inset
+
+ 
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\series bold
+Activation boxes 
+\series default
+show when and how long objects perform processes and go along the lifelines.
+\end_layout
+
+\begin_layout Itemize
+\begin_inset Graphics
+	filename UML_SEQUENCE_2.png
+	lyxscale 50
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+
+\emph on
+Additional Resources
+\end_layout
+
+\begin_layout Itemize
+https://www.uml-diagrams.org/uml-25-diagrams.html
+\end_layout
+
+\begin_layout Standard
+\begin_inset Separator plain
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
 \begin_layout Section
 
 \emph on
 Data Analysis and Statistics
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
 \end_layout
 
 \begin_layout Section
@@ -388,10 +549,24 @@ Data Analysis and Statistics
 Idea Development
 \end_layout
 
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
 \begin_layout Section
 
 \emph on
 Stakeholder Engagement
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
 \end_layout
 
 \end_body
