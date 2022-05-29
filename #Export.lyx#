@@ -1620,13 +1620,11 @@ What will be the role of the stakeholders, and which of their characteristics
 
 \series bold
 \emph on
-Organising Stakeholder Requirements[168,]: 
+Stakeholder Requirements[168,]: 
 \series default
 \emph default
 Now that we have engaged our stakeholders and gathered some data, we must
- arrange their perspectives into categories of requirements for our application;
- this is necessary as it builds a bridge to design and implementation.
- System requirements should be unambiguous and verifiable with a clear procedure.
+ now produce functional and non functional requirements for our system.
 \end_layout
 
 \begin_deeper
@@ -1637,8 +1635,11 @@ Now that we have engaged our stakeholders and gathered some data, we must
 Functional Requirements: 
 \series default
 \emph default
-General system constraints, demands from the systems in terms of quality
- and performance.
+General system constraints, demands from the systems in terms of quality,
+ UI, and performance.
+ Services features and functions to provide, commonly relate to inputs and
+ outputs.
+ More low level and specific in terms of event chains.
 \end_layout
 
 \begin_layout Itemize
@@ -1646,19 +1647,87 @@ General system constraints, demands from the systems in terms of quality
 \series bold
 \emph on
 Non Functional Requirements: 
+\series default
+\emph default
+General properties of the system and its behaviour, they aren't features
+ of the system but are required characteristics or qualities (describing
+ the system from a high level)
 \end_layout
 
-\end_deeper
 \begin_layout Itemize
 
 \series bold
 \emph on
-Requirements Engineering[178,]: 
+Requirements Engineering[178,], [183,], [187,]: 
 \series default
 \emph default
 To produce these requirements, refer to the seven step process.
+ We can 
+\series bold
+\emph on
+collaborate[187,]
+\series default
+\emph default
+ in gathering these requirements.
+ We can organise these functional and non functional requirements using
+ 
+\series bold
+\emph on
+MoSCoW prioritisation[193,]
 \end_layout
 
+\begin_layout Itemize
+
+\series bold
+\emph on
+Analysis of Requirements[194,]
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+
+\series bold
+\emph on
+Explicit Analysis of Requirements: 
+\series default
+\emph default
+One could use 
+\series bold
+\emph on
+Use Case
+\series default
+s
+\series bold
+[209,]
+\series default
+\emph default
+ / UML , or Scenarios / Storyboards to analyse the requirements.
+ 
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+\emph on
+Negotation of Requirements[203,]: 
+\series default
+\emph default
+Negotiate on the requirements with the stakeholders to compromise / get
+ a win-win result.
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+\emph on
+Validation of Requirements[204,]: 
+\series default
+\emph default
+Verify that each requirement is consistent / conforms to the system.
+\end_layout
+
+\end_deeper
+\end_deeper
 \begin_layout Itemize
 
 \series bold
@@ -1821,6 +1890,11 @@ Making early samples, or models of a product built to test a concept or
  
 \end_layout
 
+\begin_layout Standard
+Now that we have modelled our requirements for the system, we must produce
+ a prototype and translate these requirement models into design models.
+\end_layout
+
 \begin_layout Itemize
 You can create a digital or physical prototype of your solition, which the
  user or team member can engage and interact with.
@@ -1834,18 +1908,6 @@ Testing
 \series default
 \emph default
 : An iterative process in which we refine our solutions and make them better.
-\end_layout
-
-\begin_layout Subsection
-
-\emph on
-Prototyping
-\end_layout
-
-\begin_layout Subsection
-
-\emph on
-Organising stakeholder requirements
 \end_layout
 
 \begin_layout Subsection

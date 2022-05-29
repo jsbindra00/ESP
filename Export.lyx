@@ -1341,34 +1341,6 @@ There may not be a clearly defined population of interest.
 \begin_layout Part
 
 \emph on
-Conducting Experiments[453,
-\end_layout
-
-\begin_layout Part
-Application Process
-\end_layout
-
-\begin_layout Section
-
-\emph on
-Research
-\end_layout
-
-\begin_layout Section
-
-\emph on
-Engaging Stakeholders
-\end_layout
-
-\begin_layout Subsection
-
-\emph on
-Gathering Stakeholder Data
-\end_layout
-
-\begin_layout Part
-
-\emph on
 Application Flow
 \end_layout
 
@@ -1882,17 +1854,87 @@ Find feedback from participants and your team-members.
 
 \series bold
 \emph on
-Prototyping: 
+Prototyping and different prototype styles[262,]: 
 \series default
 \emph default
 Making early samples, or models of a product built to test a concept or
  process.
- 
+\end_layout
+
+\begin_layout Standard
+Now that we have modelled our requirements for the system, we must produce
+ a prototype and translate these requirement models into 
+\series bold
+\emph on
+design models[222,]
+\series default
+\emph default
+.You can create a digital or physical prototype of your solition, which the
+ user or team member can engage and interact with.
+ Here is what you should consider when commencing the translation:
 \end_layout
 
 \begin_layout Itemize
-You can create a digital or physical prototype of your solition, which the
- user or team member can engage and interact with.
+
+\series bold
+\emph on
+Software Architecture[229,] and its different styles [247,]
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+\emph on
+Design Patterns[231,]
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+\emph on
+Seperation of Concerns[232,
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+\emph on
+Modularity[233,]
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+\emph on
+Encapsulation and Information Hiding[235,]
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+\emph on
+Functional Independance [236,]
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+\emph on
+Stepwise Refinement[238,]
+\end_layout
+
+\begin_layout Standard
+\begin_inset Separator plain
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+To ensure that the UX is friendly and responsive, we need to consider 
+\series bold
+\emph on
+Interaction Design[266,]
 \end_layout
 
 \begin_layout Subsubsection
@@ -1903,24 +1945,6 @@ Testing
 \series default
 \emph default
 : An iterative process in which we refine our solutions and make them better.
-\end_layout
-
-\begin_layout Subsection
-
-\emph on
-Prototyping
-\end_layout
-
-\begin_layout Subsection
-
-\emph on
-Organising stakeholder requirements
-\end_layout
-
-\begin_layout Subsection
-
-\emph on
-Design Concepts
 \end_layout
 
 \begin_layout Subsection
