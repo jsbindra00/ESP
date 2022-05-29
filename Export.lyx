@@ -1344,5 +1344,358 @@ There may not be a clearly defined population of interest.
 Conducting Experiments[453,
 \end_layout
 
+\begin_layout Part
+Application Process
+\end_layout
+
+\begin_layout Section
+
+\emph on
+Research
+\end_layout
+
+\begin_layout Section
+
+\emph on
+Engaging Stakeholders
+\end_layout
+
+\begin_layout Subsection
+
+\emph on
+Gathering Stakeholder Data
+\end_layout
+
+\begin_layout Section
+
+\emph on
+Application Flow
+\end_layout
+
+\begin_layout Subsection
+
+\emph on
+Human Centred Design
+\end_layout
+
+\begin_layout Subsubsection
+
+\emph on
+What is Human Centered Design?
+\end_layout
+
+\begin_layout Standard
+Human centered design is an interative design process, in which designers
+ focus on the users and their needs in each phase of the design process.
+ Commonly used in design, management, and engineering frameworks that develops
+ solutions to problems by involving the human perspective in all steps of
+ the problem solving process.
+\end_layout
+
+\begin_layout Subsubsection
+
+\emph on
+Drawbacks of Human Centered Design
+\end_layout
+
+\begin_layout Itemize
+Most people do not know what they want; as such, it would be difficult to
+ iteratively design an application when the suggestions in question may
+ be contradictory or incomplete.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Separator plain
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection
+
+\emph on
+How can one enforce Human Centered Design?
+\end_layout
+
+\begin_layout Standard
+Consider the 
+\series bold
+\emph on
+Design Thinking
+\series default
+\emph default
+ five-stage model, proposed at the Institute of Design at Stanford.
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+\emph on
+Empathise: 
+\series default
+\emph default
+To empathise with another human being is to understand and share their feelings.
+ We can achieve empathy through::
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+
+\series bold
+\emph on
+Observing: 
+\series default
+\emph default
+view users and their behaviour in the context of their lives.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Keep asking why when asking questions.
+ 
+\end_layout
+
+\begin_layout Itemize
+Encourage stories and get worldviews.
+\end_layout
+
+\begin_layout Itemize
+Pay attention to non verbal cues such as body language and emotion.
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\series bold
+\emph on
+Engage
+\series default
+\emph default
+: Interact with users through encounters.
+ You could do this through:
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+
+\series bold
+\emph on
+1 on 1 interviews
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+\emph on
+Focus Groups
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+\emph on
+Surveys
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+\emph on
+Ethnographies
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+\emph on
+Diaries
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\series bold
+\emph on
+Immerse:
+\emph default
+ 
+\series default
+Experience what our users experience.
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\series bold
+\emph on
+Define
+\emph default
+: 
+\series default
+Unpacking our findings from Empathy, into compelling needs, insights and
+ a meaningful challenge; we are laying concrete definitions and focusing
+ on a problem that the user(s) may experience.
+ Our goal is to develop a deep understanding of the users and the design
+ sapce, and to come up with an actionable problem statement.
+ We can analyse our Empathy findings by the following:
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+
+\series bold
+\emph on
+Needs: 
+\series default
+\emph default
+What are some needs that we have discovered?
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+These needs could be physical and or emotional.
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\series bold
+\emph on
+Insights: 
+\series default
+\emph default
+What are some insights that we have found interesting?
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Something that may not conform to the norm; this could give you a leverage
+ or a unique selling point to your application.
+ We can further leverage these insights to tailor our applications to our
+ users and promote equity.
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Itemize
+
+\series bold
+\emph on
+Ideate: 
+\series default
+\emph default
+Now that we have an actionable problem statement, as well as a rough reference
+ on the user insights and problems, we can begin to generate ideas.
+ The goal now, is to explore a large solution space and develop a large,
+ diverse set of ideas.
+ From this tree of ideas, we can begin to prune and build prototypes to
+ test with users.
+ The ideate process is as follows:
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+
+\series bold
+\emph on
+Sketching
+\series default
+\emph default
+: Go for volume.
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+\emph on
+Pruning: 
+\series default
+\emph default
+We can narrow our selection down by:
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Voting, where the team iteratively votes for the best ideas across an interval.
+\end_layout
+
+\begin_layout Itemize
+Restrict the ideas to four categories, and elect the appropriate idea(s)
+ within each category:
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+The most rational choice
+\end_layout
+
+\begin_layout Itemize
+The most daring
+\end_layout
+
+\begin_layout Itemize
+The most likely to delight
+\end_layout
+
+\begin_layout Itemize
+The long shot
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Itemize
+
+\series bold
+\emph on
+Feedback on pruned ideas: 
+\series default
+\emph default
+Find feedback from participants and your team-members.
+ Criticism is essential.
+ Then, iterate and refine your ideas based on this feedback.
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\series bold
+\emph on
+Prototyping: 
+\series default
+\emph default
+Making early samples, or models of a product built to test a concept or
+ process.
+\end_layout
+
+\begin_layout Subsection
+
+\emph on
+Prototyping
+\end_layout
+
+\begin_layout Subsection
+
+\emph on
+Organising stakeholder requirements
+\end_layout
+
+\begin_layout Subsection
+
+\emph on
+Design Concepts
+\end_layout
+
+\begin_layout Subsection
+
+\emph on
+Testing
+\end_layout
+
+\begin_layout Subsection
+
+\emph on
+Application Evaluation
+\end_layout
+
 \end_body
 \end_document

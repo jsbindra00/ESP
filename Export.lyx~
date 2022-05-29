@@ -1155,22 +1155,27 @@ Idea Development
 \end_layout
 
 \begin_layout Part
-
-\emph on
-Organising Stakeholder Requirements [
-\end_layout
-
-\begin_layout Part
 \noindent
 
 \emph on
-Stakeholder Engagement[106,]
+Stakeholders[106,
 \end_layout
 
 \begin_layout Section
 
 \emph on
 Stakeholder Engagement Plan (SEP)
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+What is a stakeholder?
+\end_layout
+
+\begin_layout Standard
+A person, group or company that is directly or indirectly involved in the
+ project, and who may affect or get affected by the outcome of the project.
 \end_layout
 
 \begin_layout Itemize
@@ -1256,6 +1261,76 @@ What will be the role of the stakeholders?
 
 \end_deeper
 \begin_layout Standard
+\begin_inset Separator plain
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+
+\emph on
+Sampling Data
+\end_layout
+
+\begin_layout Standard
+There are two major types of sampling methods.
+\end_layout
+
+\begin_layout Subsection
+
+\emph on
+Probabilistic Sampling
+\end_layout
+
+\begin_layout Itemize
+
+\emph on
+Census: 
+\emph default
+Every single person in the targeted user population is cosen to take part
+ in the survey.
+\end_layout
+
+\begin_layout Itemize
+
+\emph on
+Random Sample: 
+\emph default
+not all people are chosen to participate, but it is known what the likelihood
+ of being chosen to participate.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Separator plain
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+
+\emph on
+Non-Probabilistic Sampling
+\end_layout
+
+\begin_layout Itemize
+You do not or cannot use a strict random sample.
+\end_layout
+
+\begin_layout Itemize
+You do not know the likelihood of an individual being selected.
+\end_layout
+
+\begin_layout Itemize
+You are not interested in a population estimate.
+\end_layout
+
+\begin_layout Itemize
+There may not be a clearly defined population of interest.
+\end_layout
+
+\begin_layout Standard
 \noindent
 \begin_inset Newpage newpage
 \end_inset
@@ -1267,6 +1342,216 @@ What will be the role of the stakeholders?
 
 \emph on
 Conducting Experiments[453,
+\end_layout
+
+\begin_layout Part
+Application Process
+\end_layout
+
+\begin_layout Section
+
+\emph on
+Research
+\end_layout
+
+\begin_layout Section
+
+\emph on
+Engaging Stakeholders
+\end_layout
+
+\begin_layout Subsection
+
+\emph on
+Gathering Stakeholder Data
+\end_layout
+
+\begin_layout Section
+
+\emph on
+Application Flow
+\end_layout
+
+\begin_layout Subsection
+
+\emph on
+Human Centred Design
+\end_layout
+
+\begin_layout Subsubsection
+
+\emph on
+What is Human Centered Design?
+\end_layout
+
+\begin_layout Standard
+Human centered design is an interative design process, in which designers
+ focus on the users and their needs in each phase of the design process.
+ Commonly used in design, management, and engineering frameworks that develops
+ solutions to problems by involving the human perspective in all steps of
+ the problem solving process.
+\end_layout
+
+\begin_layout Subsubsection
+
+\emph on
+Drawbacks of Human Centered Design
+\end_layout
+
+\begin_layout Itemize
+Most people do not know what they want; as such, it would be difficult to
+ iteratively design an application when the suggestions in question may
+ be contradictory or incomplete.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Separator plain
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection
+
+\emph on
+How can one enforce Human Centered Design?
+\end_layout
+
+\begin_layout Standard
+Consider the 
+\series bold
+\emph on
+Design Thinking
+\series default
+\emph default
+ five-stage model, proposed at the Institute of Design at Stanford.
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+\emph on
+Empathise: 
+\series default
+\emph default
+To empathise with another human being is to understand and share their feelings.
+ We can achieve empathy through::
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+
+\series bold
+\emph on
+Observing: 
+\series default
+\emph default
+view users and their behaviour in the context of their lives.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Keep asking why when asking questions.
+ 
+\end_layout
+
+\begin_layout Itemize
+Encourage stories and get worldviews.
+\end_layout
+
+\begin_layout Itemize
+Pay attention to non verbal cues such as body language and emotion.
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\series bold
+\emph on
+Engage
+\series default
+\emph default
+: Interact with users through encounters.
+ You could do this through:
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+
+\series bold
+\emph on
+1 on 1 interviews
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+\emph on
+Focus Groups
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+\emph on
+Surveys
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+\emph on
+Ethnographies
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+\emph on
+Diaries
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\series bold
+\emph on
+Immerse:
+\emph default
+ 
+\series default
+Experience what our users experience.
+\end_layout
+
+\end_deeper
+\begin_layout Subsection
+
+\emph on
+Prototyping
+\end_layout
+
+\begin_layout Subsection
+
+\emph on
+Organising stakeholder requirements
+\end_layout
+
+\begin_layout Subsection
+
+\emph on
+Design Concepts
+\end_layout
+
+\begin_layout Subsection
+
+\emph on
+Testing
+\end_layout
+
+\begin_layout Subsection
+
+\emph on
+Application Evaluation
 \end_layout
 
 \end_body
