@@ -2085,10 +2085,6 @@ Heuristics[379,]
 
 \begin_deeper
 \begin_layout Itemize
-These heuristics could be questions or ratings.
-\end_layout
-
-\begin_layout Itemize
 Refer to 
 \series bold
 \emph on
@@ -2191,135 +2187,34 @@ Identifying the goals you want to examine, the characteristics of typical
 
 \begin_layout Itemize
 
-\series bold
-\emph on
-Briefing: 
-\series default
-\emph default
-Designer presents the design, and expert is told about the population, task
- details.
 \end_layout
 
-\begin_layout Itemize
-
-\series bold
-\emph on
-Evaluation: 
-\series default
-\emph default
-Experts walk through action sequences for each task.
- They answer the 
-\series bold
-\emph on
-four questions[391,] 
-\series default
-\emph default
-and note problems.
-\end_layout
-
-\begin_layout Itemize
-
-\series bold
-\emph on
-Debriefing and Revision: 
-\series default
-\emph default
-A summary of the results are compiled and insighed checked with users; designed
- is criticised and iteratively improved.
-\end_layout
-
+\end_deeper
 \end_deeper
 \end_deeper
 \begin_layout Itemize
 
 \series bold
 \emph on
-Measuring Usability[399,], [418,]:
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-
-\series bold
-\emph on
-Analytical Methods[395,]: 
-\series default
-\emph default
-To use as metrics, such as IO tracking etc, 
-\series bold
-\emph on
-Fitts Law (Predictive Modelling)[396,], System Usability Scale (SUS)[420,]
-\end_layout
-
-\end_deeper
-\end_deeper
-\begin_layout Itemize
-
-\series bold
-\emph on
-Empirical Evaluation[367,], [408,]: 
+Empirical Evaluation[367,]: 
 \series default
 \emph default
 Involving users, the experiment.
  Based on anecdotal, experimental evidence, not mathematical.
- In conducting an empirical evaluation, the following steps must be conisdered:
-\end_layout
-
-\begin_deeper
-\begin_layout Enumerate
-
-\series bold
-\emph on
-Choose Research Questions[410,]
-\end_layout
-
-\begin_layout Enumerate
-Specify Methodology
+ In conducting an empirical evaluation, the following points must be conisdered:
 \end_layout
 
 \begin_deeper
 \begin_layout Itemize
-
-\series bold
-\emph on
-Definition of tasks for the users[413,]
+Definition of tasks for the users.
 \end_layout
 
 \begin_layout Itemize
-
-\series bold
-\emph on
-Definition of the variables in the application[415,]
+Definition of the variables in the application.
 \end_layout
 
 \begin_layout Itemize
-
-\series bold
-\emph on
-Specify the hypothesis based on the changing variables (your expected outcome)[4
-16,]
-\end_layout
-
-\end_deeper
-\begin_layout Enumerate
-
-\series bold
-\emph on
-Conduct a Pilot Study: 
-\series default
-\emph default
-A small test study.
-\end_layout
-
-\begin_layout Enumerate
-
-\series bold
-\emph on
-Use a script to collect data[424,]
-\end_layout
-
-\begin_layout Enumerate
-Analyse data to find answers, and discuss.
+Specify the hypothesis based on the changing variables (your expected outcome).
 \end_layout
 
 \end_deeper
@@ -2330,8 +2225,8 @@ Analyse data to find answers, and discuss.
 Data Reliability[369,]: 
 \series default
 \emph default
-You must consider whether or not the data from the evaluation is reliable,
- valid, the scope of the data, and the presence of any 
+You must consider whether or not the data is reliable, valid, the scope
+ of the data, and the presence of any 
 \series bold
 \emph on
 Biases and Limitations[370,]

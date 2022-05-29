@@ -1211,221 +1211,6 @@ Idea Development
 \noindent
 
 \emph on
-Stakeholders[106,
-\end_layout
-
-\begin_layout Section
-\noindent
-
-\emph on
-Stakeholder Engagement Plan (SEP)
-\end_layout
-
-\begin_layout Standard
-\noindent
-
-\emph on
-What is a stakeholder?
-\end_layout
-
-\begin_layout Standard
-\noindent
-A person, group or company that is directly or indirectly involved in the
- project, and who may affect or get affected by the outcome of the project.
-\end_layout
-
-\begin_layout Itemize
-\noindent
-
-\emph on
-Context Definition
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-\noindent
-Early on, describe the problem and propsed solution, indicate stakeholders
- and details of the problem/soluton context.
-\end_layout
-
-\begin_layout Itemize
-\noindent
-Later, describe the system, product features, indicate target users and
- details of where the system/product is/will be used.
-\end_layout
-
-\end_deeper
-\begin_layout Itemize
-\noindent
-
-\emph on
-Engagement Goal
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-\noindent
-Clarify the engagement outcome in terms of the broader project context.
-\end_layout
-
-\end_deeper
-\begin_layout Itemize
-\noindent
-
-\emph on
-Engagement Method
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-\noindent
-Surveys
-\end_layout
-
-\begin_layout Itemize
-\noindent
-1-1 Interviews
-\end_layout
-
-\begin_layout Itemize
-\noindent
-Focus Groups
-\end_layout
-
-\begin_layout Itemize
-\noindent
-Ethnographies
-\end_layout
-
-\begin_layout Itemize
-\noindent
-Diaries
-\end_layout
-
-\begin_layout Itemize
-\noindent
-Observations
-\end_layout
-
-\end_deeper
-\begin_layout Itemize
-\noindent
-
-\emph on
-Location and Profile
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-\noindent
-Where will the engagement take place?
-\end_layout
-
-\begin_layout Itemize
-\noindent
-Who will be involved (consider if team members are required)?
-\end_layout
-
-\begin_layout Itemize
-\noindent
-What will be the role of the stakeholders?
-\end_layout
-
-\end_deeper
-\begin_layout Standard
-\noindent
-\begin_inset Separator plain
-\end_inset
-
-
-\end_layout
-
-\begin_layout Section
-\noindent
-
-\emph on
-Sampling Data
-\end_layout
-
-\begin_layout Standard
-\noindent
-There are two major types of sampling methods.
-\end_layout
-
-\begin_layout Subsection
-\noindent
-
-\emph on
-Probabilistic Sampling
-\end_layout
-
-\begin_layout Itemize
-\noindent
-
-\emph on
-Census: 
-\emph default
-Every single person in the targeted user population is cosen to take part
- in the survey.
-\end_layout
-
-\begin_layout Itemize
-\noindent
-
-\emph on
-Random Sample: 
-\emph default
-not all people are chosen to participate, but it is known what the likelihood
- of being chosen to participate.
-\end_layout
-
-\begin_layout Standard
-\noindent
-\begin_inset Separator plain
-\end_inset
-
-
-\end_layout
-
-\begin_layout Subsection
-\noindent
-
-\emph on
-Non-Probabilistic Sampling
-\end_layout
-
-\begin_layout Itemize
-\noindent
-You do not or cannot use a strict random sample.
-\end_layout
-
-\begin_layout Itemize
-\noindent
-You do not know the likelihood of an individual being selected.
-\end_layout
-
-\begin_layout Itemize
-\noindent
-You are not interested in a population estimate.
-\end_layout
-
-\begin_layout Itemize
-\noindent
-There may not be a clearly defined population of interest.
-\end_layout
-
-\begin_layout Standard
-\noindent
-\begin_inset Newpage newpage
-\end_inset
-
-
-\end_layout
-
-\begin_layout Part
-\noindent
-
-\emph on
 Application Flow
 \end_layout
 
@@ -2190,23 +1975,357 @@ Testing your code.
 (6 - ADDITIONAL) Evaluation of the Application
 \end_layout
 
-\begin_layout Subsection
-\noindent
-
-\emph on
-Testing
-\end_layout
-
-\begin_layout Subsection
-\noindent
-
-\emph on
-Application Evaluation
-\end_layout
-
 \begin_layout Standard
 \noindent
-fdf
+You should consider the following points:
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+\emph on
+Where to evaluate? [357,]
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+
+\series bold
+\emph on
+Controlled Settings: 
+\series default
+\emph default
+Usability and reseach labs for usability testing and experiments.
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+\emph on
+Natural Settings: 
+\series default
+\emph default
+Online communities and products used in public places.
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+\emph on
+Any settings not directly involving users[361,]
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\series bold
+\emph on
+Evaluation Methods[365,] 
+\series default
+\emph default
+describe how exactly the data from the evaluation experiment will be gathered.
+ There are two types of evaluation methods:
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+
+\series bold
+\emph on
+Quantitative Evaluation: 
+\series default
+\emph default
+Data are numbers, good for comparing solutions or test aspects of the systems.
+ More mathematical with measurable metrics, scales and changes.
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+\emph on
+Qualitative Evaluation: 
+\series default
+\emph default
+Data is typically text.
+ Good to explore user needs and problems; analysis of data for themes and
+ patterns.
+ More psychological, involving interviews and open ended questions.
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\series bold
+\emph on
+Analytic Evaluation[366,]: 
+\series default
+\emph default
+Involving experts, targeting 
+\series bold
+\emph on
+usability
+\series default
+\emph default
+, which is measured through mathematical / heuristic analysis.
+ Usability is the extent to which a product can be used by specified users
+ to achieve specified goals with effectiveness, efficiency, and satisfaction
+ in a specified context of use.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Uses 
+\series bold
+\emph on
+Heuristics[379,]
+\series default
+\emph default
+ to check whether the UI elements conform to usability principles.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+These heuristics could be questions or ratings.
+\end_layout
+
+\begin_layout Itemize
+Refer to 
+\series bold
+\emph on
+Nielsen's 10 UI Heuristics[379,]: 
+\series default
+\emph default
+allows one to measure usability in application design.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+To conduct a 
+\series bold
+\emph on
+Heuristic Evaluation[386,] 
+\series default
+\emph default
+there are three steps.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+
+\series bold
+\emph on
+Briefing Session: 
+\series default
+\emph default
+experts are briefed about the goal of the evaluation, and about the typical
+ users and their key tasks.
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+\emph on
+Evaluation Period: 
+\series default
+\emph default
+Each expert works seperately.
+ First pass for a feel of the flow of interaction and system in general.
+ Second pass focusing on specific features / interace elements.
+ Experts can assign severity ratings to each feature.
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+\emph on
+Debriefing Session: 
+\series default
+\emph default
+Experts work together with the design team to discuss findings, their prioritsat
+ion and suggestions for solutions.
+\end_layout
+
+\end_deeper
+\end_deeper
+\end_deeper
+\begin_layout Itemize
+Uses 
+\series bold
+\emph on
+Cognitive Walkthroughs[389,] 
+\series default
+\emph default
+to simulate users problem solving, and checking whether the user would know
+ what to do at each step.:
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Task based approached of inferring users problem solving / mental process
+ when they explore an interace.
+\end_layout
+
+\begin_layout Itemize
+Involves experts and members of the design team.
+ Focuses of ease of learning of the system.
+\end_layout
+
+\begin_layout Itemize
+There are four stages of 
+\series bold
+\emph on
+conducting a cognitive walkthrough[390,]:
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+
+\series bold
+\emph on
+Preparation: 
+\series default
+\emph default
+Identifying the goals you want to examine, the characteristics of typical
+ users, and tasks to be completed to accomplish these goals.
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+\emph on
+Briefing: 
+\series default
+\emph default
+Designer presents the design, and expert is told about the population, task
+ details.
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+\emph on
+Evaluation: 
+\series default
+\emph default
+Experts walk through action sequences for each task.
+ They answer the 
+\series bold
+\emph on
+four questions[391,] 
+\series default
+\emph default
+and note problems.
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+\emph on
+Debriefing and Revision: 
+\series default
+\emph default
+A summary of the results are compiled and insighed checked with users; designed
+ is criticised and iteratively improved.
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Itemize
+
+\series bold
+\emph on
+Measuring Usability[399,], [418,]:
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+
+\series bold
+\emph on
+Analytical Methods[395,]: 
+\series default
+\emph default
+To use as metrics, such as IO tracking etc, 
+\series bold
+\emph on
+Fitts Law (Predictive Modelling)[396,]
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Itemize
+
+\series bold
+\emph on
+Empirical Evaluation[367,], [408,]: 
+\series default
+\emph default
+Involving users, the experiment.
+ Based on anecdotal, experimental evidence, not mathematical.
+ In conducting an empirical evaluation, the following steps must be conisdered:
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+
+\series bold
+\emph on
+Choose Research Questions[410,]
+\end_layout
+
+\begin_layout Enumerate
+Specify Methodology
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+
+\series bold
+\emph on
+Definition of tasks for the users[413,]
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+\emph on
+Definition of the variables in the application[415,]
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+\emph on
+Specify the hypothesis based on the changing variables (your expected outcome)[4
+16,]
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Conduct a Pilot Study?????? 
+\end_layout
+
+\begin_layout Enumerate
+Use a script to collect data
+\end_layout
+
+\begin_layout Enumerate
+Analyse data to find answers, and discuss.
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\series bold
+\emph on
+Data Reliability[369,]: 
+\series default
+\emph default
+You must consider whether or not the data from the evaluation is reliable,
+ valid, the scope of the data, and the presence of any 
+\series bold
+\emph on
+Biases and Limitations[370,]
 \end_layout
 
 \end_body
