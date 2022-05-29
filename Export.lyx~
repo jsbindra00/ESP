@@ -103,6 +103,7 @@ Agile Software Development
 \end_layout
 
 \begin_layout Section
+\noindent
 
 \emph on
 Agile Outline
@@ -170,6 +171,7 @@ The team regularly reflects on how to become more effective and adjusts
 \end_layout
 
 \begin_layout Standard
+\noindent
 \begin_inset Separator plain
 \end_inset
 
@@ -321,6 +323,7 @@ ACM (Association for Computing Machinery) [58,68]
 \end_layout
 
 \begin_layout Standard
+\noindent
 ACM are the worlds largest computing society which provide activities, guidance
  and principles to support professional growth.
 \end_layout
@@ -391,6 +394,7 @@ IEEE is the worlds largest techincal professional organisation which enforces
 \end_layout
 
 \begin_layout Subsection
+\noindent
 
 \series bold
 \emph on
@@ -398,16 +402,19 @@ IEE Code of Ethics.
 \end_layout
 
 \begin_layout Itemize
+\noindent
 Upload the highest standards of integrity, responsible behaviour and ethical
  conduct in professional activities.
 \end_layout
 
 \begin_layout Itemize
+\noindent
 Treat all persons fairly and with respect, to not engage in harassment or
  discrimination, and to avoid injuring others.
 \end_layout
 
 \begin_layout Itemize
+\noindent
 Strive to ensure code is upheld by colleagues and co-workers.
 \end_layout
 
@@ -520,6 +527,7 @@ The University of Bath requires the EIRA1 electronic form to be completed
 \end_layout
 
 \begin_layout Subsection
+\noindent
 
 \emph on
 Scientific Integrity
@@ -650,6 +658,7 @@ Making up results and recording them as though they were real.
 \end_layout
 
 \begin_layout Standard
+\noindent
 \begin_inset Separator plain
 \end_inset
 
@@ -657,18 +666,21 @@ Making up results and recording them as though they were real.
 \end_layout
 
 \begin_layout Subsection
+\noindent
 
 \emph on
 Key Principles of Human Research
 \end_layout
 
 \begin_layout Subsubsection
+\noindent
 
 \emph on
 Ethical Principles in Human Research
 \end_layout
 
 \begin_layout Standard
+\noindent
 In collecting data from people, there are some basic ethical principles
  to consider:
 \end_layout
@@ -685,6 +697,7 @@ Individuals should be treated as autonomous agents (they can make their
 \end_layout
 
 \begin_layout Itemize
+\noindent
 
 \emph on
 Beneficence
@@ -694,6 +707,7 @@ Beneficence
 \end_layout
 
 \begin_layout Itemize
+\noindent
 
 \emph on
 Justic
@@ -703,17 +717,20 @@ e: Do no not deny benefits or impose burdens of research to people without
 \end_layout
 
 \begin_layout Subsubsection
+\noindent
 
 \emph on
 Informed consent
 \end_layout
 
 \begin_layout Standard
+\noindent
 The participants should choose what does and does not happen to them.
  There are three core elements to informed consent.
 \end_layout
 
 \begin_layout Itemize
+\noindent
 
 \emph on
 Information
@@ -723,6 +740,7 @@ Information
 \end_layout
 
 \begin_layout Itemize
+\noindent
 
 \emph on
 Comprehension: 
@@ -733,6 +751,7 @@ Information must be provided in a coherent manner which would not curtail
 \end_layout
 
 \begin_layout Itemize
+\noindent
 
 \emph on
 Agreement to Participate: 
@@ -742,30 +761,36 @@ Valid if given voluntarily and not through coercion or threat, or undue
 \end_layout
 
 \begin_layout Subsubsection
+\noindent
 
 \emph on
 Withdrawal
 \end_layout
 
 \begin_layout Itemize
+\noindent
 Participants must have the right to withdraw:
 \end_layout
 
 \begin_deeper
 \begin_layout Itemize
+\noindent
 After having read the information sheet.
 \end_layout
 
 \begin_layout Itemize
+\noindent
 Part way through the study
 \end_layout
 
 \begin_layout Itemize
+\noindent
 After the study; 
 \end_layout
 
 \end_deeper
 \begin_layout Itemize
+\noindent
 When working with anonymised data, it may not be possible to extract an
  individuals data.
  Participants must be made aware of this, and depending on how the data
@@ -778,88 +803,106 @@ where you can give participants to withdraw their data, after which the
 \end_layout
 
 \begin_layout Subsubsection
+\noindent
 
 \emph on
 Data
 \end_layout
 
 \begin_layout Itemize
+\noindent
 Only collect data that is absolutely necessary.
 \end_layout
 
 \begin_layout Itemize
+\noindent
 Clearly tell participants what you are recording and why.
  You must provide consent if you use images in publications and reports.
 \end_layout
 
 \begin_layout Itemize
+\noindent
 Anonymise the data if possible (pixelating images).
 \end_layout
 
 \begin_layout Itemize
+\noindent
 Secure storage of data
 \end_layout
 
 \begin_deeper
 \begin_layout Itemize
+\noindent
 All participant data should be stored securely on the University drives,
  access files with files.bath.ac.uk remotely.
 \end_layout
 
 \begin_layout Itemize
+\noindent
 All paper data like consent forms should be stored in locked filing cabinets
  with clear labels.
 \end_layout
 
 \end_deeper
 \begin_layout Subsubsection
+\noindent
 
 \emph on
 Recruitment of Participants
 \end_layout
 
 \begin_layout Itemize
+\noindent
 Use emails, social media, posters, word of mouth.
 \end_layout
 
 \begin_layout Itemize
+\noindent
 You musn't coerce or pressurise people into taking part.
  Compensation should be to compensate their time, not entice them.
 \end_layout
 
 \begin_layout Itemize
+\noindent
 Must provide fundamental information of the study such as:
 \end_layout
 
 \begin_deeper
 \begin_layout Itemize
+\noindent
 Study title
 \end_layout
 
 \begin_layout Itemize
+\noindent
 What will be involved, and duration of study.
 \end_layout
 
 \begin_layout Itemize
+\noindent
 Criteria for inclusion (eg, healthy adults 18+)
 \end_layout
 
 \begin_layout Itemize
+\noindent
 Compensation for their time information.
 \end_layout
 
 \begin_layout Itemize
+\noindent
 Contact information.
 \end_layout
 
 \end_deeper
 \begin_layout Subsubsection
+\noindent
 
 \emph on
 Participant Impairments
 \end_layout
 
 \begin_layout Standard
+\noindent
 You must consider the impairments of your participants of the study as the
  ethical process will take longer and will be more complicated.
  Consent could be more problematic if under 18 / those with diminished responsib
@@ -868,36 +911,44 @@ lity.
 \end_layout
 
 \begin_layout Subsubsection
+\noindent
 
 \emph on
 Debriefing
 \end_layout
 
 \begin_layout Itemize
+\noindent
 Thank the participant for their time
 \end_layout
 
 \begin_layout Itemize
+\noindent
 Provide participants with a full explanation of what was being tested.
 \end_layout
 
 \begin_layout Itemize
+\noindent
 What were the hypotheses and what were they based upon.
 \end_layout
 
 \begin_layout Itemize
+\noindent
 Explain how the results will be used.
 \end_layout
 
 \begin_layout Itemize
+\noindent
 Where they can find more information.
 \end_layout
 
 \begin_layout Itemize
+\noindent
 Reminder of their right to withdraw.
 \end_layout
 
 \begin_layout Standard
+\noindent
 \begin_inset Separator plain
 \end_inset
 
@@ -905,12 +956,14 @@ Reminder of their right to withdraw.
 \end_layout
 
 \begin_layout Part
+\noindent
 
 \emph on
 UML Models
 \end_layout
 
 \begin_layout Section
+\noindent
 
 \emph on
 UML Case Diagrams
@@ -1162,23 +1215,27 @@ Stakeholders[106,
 \end_layout
 
 \begin_layout Section
+\noindent
 
 \emph on
 Stakeholder Engagement Plan (SEP)
 \end_layout
 
 \begin_layout Standard
+\noindent
 
 \emph on
 What is a stakeholder?
 \end_layout
 
 \begin_layout Standard
+\noindent
 A person, group or company that is directly or indirectly involved in the
  project, and who may affect or get affected by the outcome of the project.
 \end_layout
 
 \begin_layout Itemize
+\noindent
 
 \emph on
 Context Definition
@@ -1186,17 +1243,20 @@ Context Definition
 
 \begin_deeper
 \begin_layout Itemize
+\noindent
 Early on, describe the problem and propsed solution, indicate stakeholders
  and details of the problem/soluton context.
 \end_layout
 
 \begin_layout Itemize
+\noindent
 Later, describe the system, product features, indicate target users and
  details of where the system/product is/will be used.
 \end_layout
 
 \end_deeper
 \begin_layout Itemize
+\noindent
 
 \emph on
 Engagement Goal
@@ -1204,11 +1264,13 @@ Engagement Goal
 
 \begin_deeper
 \begin_layout Itemize
+\noindent
 Clarify the engagement outcome in terms of the broader project context.
 \end_layout
 
 \end_deeper
 \begin_layout Itemize
+\noindent
 
 \emph on
 Engagement Method
@@ -1216,31 +1278,38 @@ Engagement Method
 
 \begin_deeper
 \begin_layout Itemize
+\noindent
 Surveys
 \end_layout
 
 \begin_layout Itemize
+\noindent
 1-1 Interviews
 \end_layout
 
 \begin_layout Itemize
+\noindent
 Focus Groups
 \end_layout
 
 \begin_layout Itemize
+\noindent
 Ethnographies
 \end_layout
 
 \begin_layout Itemize
+\noindent
 Diaries
 \end_layout
 
 \begin_layout Itemize
+\noindent
 Observations
 \end_layout
 
 \end_deeper
 \begin_layout Itemize
+\noindent
 
 \emph on
 Location and Profile
@@ -1248,19 +1317,23 @@ Location and Profile
 
 \begin_deeper
 \begin_layout Itemize
+\noindent
 Where will the engagement take place?
 \end_layout
 
 \begin_layout Itemize
+\noindent
 Who will be involved (consider if team members are required)?
 \end_layout
 
 \begin_layout Itemize
+\noindent
 What will be the role of the stakeholders?
 \end_layout
 
 \end_deeper
 \begin_layout Standard
+\noindent
 \begin_inset Separator plain
 \end_inset
 
@@ -1268,22 +1341,26 @@ What will be the role of the stakeholders?
 \end_layout
 
 \begin_layout Section
+\noindent
 
 \emph on
 Sampling Data
 \end_layout
 
 \begin_layout Standard
+\noindent
 There are two major types of sampling methods.
 \end_layout
 
 \begin_layout Subsection
+\noindent
 
 \emph on
 Probabilistic Sampling
 \end_layout
 
 \begin_layout Itemize
+\noindent
 
 \emph on
 Census: 
@@ -1293,6 +1370,7 @@ Every single person in the targeted user population is cosen to take part
 \end_layout
 
 \begin_layout Itemize
+\noindent
 
 \emph on
 Random Sample: 
@@ -1302,6 +1380,7 @@ not all people are chosen to participate, but it is known what the likelihood
 \end_layout
 
 \begin_layout Standard
+\noindent
 \begin_inset Separator plain
 \end_inset
 
@@ -1309,24 +1388,29 @@ not all people are chosen to participate, but it is known what the likelihood
 \end_layout
 
 \begin_layout Subsection
+\noindent
 
 \emph on
 Non-Probabilistic Sampling
 \end_layout
 
 \begin_layout Itemize
+\noindent
 You do not or cannot use a strict random sample.
 \end_layout
 
 \begin_layout Itemize
+\noindent
 You do not know the likelihood of an individual being selected.
 \end_layout
 
 \begin_layout Itemize
+\noindent
 You are not interested in a population estimate.
 \end_layout
 
 \begin_layout Itemize
+\noindent
 There may not be a clearly defined population of interest.
 \end_layout
 
@@ -1339,52 +1423,28 @@ There may not be a clearly defined population of interest.
 \end_layout
 
 \begin_layout Part
-
-\emph on
-Conducting Experiments[453,
-\end_layout
-
-\begin_layout Part
-Application Process
-\end_layout
-
-\begin_layout Section
-
-\emph on
-Research
-\end_layout
-
-\begin_layout Section
-
-\emph on
-Engaging Stakeholders
-\end_layout
-
-\begin_layout Subsection
-
-\emph on
-Gathering Stakeholder Data
-\end_layout
-
-\begin_layout Part
+\noindent
 
 \emph on
 Application Flow
 \end_layout
 
 \begin_layout Section
+\noindent
 
 \emph on
 Human Centred Design
 \end_layout
 
 \begin_layout Subsection
+\noindent
 
 \emph on
 What is Human Centered Design?
 \end_layout
 
 \begin_layout Standard
+\noindent
 Human centered design is an interative design process, in which designers
  focus on the users and their needs in each phase of the design process.
  Commonly used in design, management, and engineering frameworks that develops
@@ -1393,25 +1453,21 @@ Human centered design is an interative design process, in which designers
 \end_layout
 
 \begin_layout Subsection
+\noindent
 
 \emph on
 Drawbacks of Human Centered Design
 \end_layout
 
-\begin_layout Itemize
+\begin_layout Standard
+\noindent
 Most people do not know what they want; as such, it would be difficult to
  iteratively design an application when the suggestions in question may
  be contradictory or incomplete.
 \end_layout
 
-\begin_layout Standard
-\begin_inset Separator plain
-\end_inset
-
-
-\end_layout
-
 \begin_layout Subsection
+\noindent
 
 \emph on
 How can one enforce Human Centered Design? The Design Thinking Model (Five
@@ -1419,6 +1475,7 @@ How can one enforce Human Centered Design? The Design Thinking Model (Five
 \end_layout
 
 \begin_layout Standard
+\noindent
 Consider the 
 \series bold
 \emph on
@@ -1429,10 +1486,11 @@ Design Thinking
 \end_layout
 
 \begin_layout Subsubsection
+\noindent
 
 \series bold
 \emph on
-Empathise
+(1)Empathise
 \series default
 \emph default
 : To empathise with another human being is to understand and share their
@@ -1440,10 +1498,12 @@ Empathise
 \end_layout
 
 \begin_layout Standard
+\noindent
 We can achieve empathy through:
 \end_layout
 
 \begin_layout Itemize
+\noindent
 
 \series bold
 \emph on
@@ -1453,23 +1513,26 @@ Observing:
 view users and their behaviour in the context of their lives.
 \end_layout
 
-\begin_deeper
 \begin_layout Itemize
+\noindent
 Keep asking why when asking questions.
  
 \end_layout
 
-\begin_deeper
 \begin_layout Itemize
+\noindent
 Encourage stories and get worldviews.
 \end_layout
 
+\begin_deeper
 \begin_layout Itemize
+\noindent
 Pay attention to non verbal cues such as body language and emotion.
 \end_layout
 
 \end_deeper
 \begin_layout Itemize
+\noindent
 
 \series bold
 \emph on
@@ -1481,6 +1544,7 @@ Engaging Stakeholders
 
 \begin_deeper
 \begin_layout Itemize
+\noindent
 
 \series bold
 \emph on
@@ -1492,6 +1556,7 @@ A person, group or company that is directly or indirectly involved in the
 \end_layout
 
 \begin_layout Itemize
+\noindent
 
 \series bold
 \emph on
@@ -1508,6 +1573,7 @@ Stakeholder Engagement Plan (SEP).
 \end_layout
 
 \begin_layout Itemize
+\noindent
 
 \series bold
 \emph on
@@ -1516,6 +1582,7 @@ Stakeholder Engagement Plan (SEP)
 
 \begin_deeper
 \begin_layout Itemize
+\noindent
 
 \series bold
 \emph on
@@ -1524,6 +1591,7 @@ Define Context
 
 \begin_deeper
 \begin_layout Itemize
+\noindent
 Describe the problem and proposed solution and inform stakeholders of this
  context.
  Describe the system features and suggest target users and details of how
@@ -1532,6 +1600,7 @@ Describe the problem and proposed solution and inform stakeholders of this
 
 \end_deeper
 \begin_layout Itemize
+\noindent
 
 \series bold
 \emph on
@@ -1540,11 +1609,13 @@ Define Engagement Goal
 
 \begin_deeper
 \begin_layout Itemize
+\noindent
 What do you hope to gain from engaging your stakeholders?
 \end_layout
 
 \end_deeper
 \begin_layout Itemize
+\noindent
 
 \series bold
 \emph on
@@ -1557,6 +1628,7 @@ These could include:
 
 \begin_deeper
 \begin_layout Itemize
+\noindent
 
 \series bold
 \emph on
@@ -1564,6 +1636,7 @@ These could include:
 \end_layout
 
 \begin_layout Itemize
+\noindent
 
 \series bold
 \emph on
@@ -1571,6 +1644,7 @@ Focus Groups[134,
 \end_layout
 
 \begin_layout Itemize
+\noindent
 
 \series bold
 \emph on
@@ -1578,6 +1652,7 @@ Surveys
 \end_layout
 
 \begin_layout Itemize
+\noindent
 
 \series bold
 \emph on
@@ -1585,6 +1660,7 @@ Ethnographies
 \end_layout
 
 \begin_layout Itemize
+\noindent
 
 \series bold
 \emph on
@@ -1593,6 +1669,7 @@ Diaries
 
 \end_deeper
 \begin_layout Itemize
+\noindent
 
 \series bold
 \emph on
@@ -1601,22 +1678,25 @@ Define your location and profile.
 
 \begin_deeper
 \begin_layout Itemize
+\noindent
 Where will the engagement take place?
 \end_layout
 
 \begin_layout Itemize
+\noindent
 Who will be involved (including team members)?
 \end_layout
 
 \begin_layout Itemize
+\noindent
 What will be the role of the stakeholders, and which of their characteristics
  make them sutiable for this engagement?
 \end_layout
 
 \end_deeper
 \end_deeper
-\end_deeper
 \begin_layout Itemize
+\noindent
 
 \series bold
 \emph on
@@ -1629,6 +1709,7 @@ Now that we have engaged our stakeholders and gathered some data, we must
 
 \begin_deeper
 \begin_layout Itemize
+\noindent
 
 \series bold
 \emph on
@@ -1643,6 +1724,7 @@ General system constraints, demands from the systems in terms of quality,
 \end_layout
 
 \begin_layout Itemize
+\noindent
 
 \series bold
 \emph on
@@ -1655,6 +1737,7 @@ General properties of the system and its behaviour, they aren't features
 \end_layout
 
 \begin_layout Itemize
+\noindent
 
 \series bold
 \emph on
@@ -1677,6 +1760,7 @@ MoSCoW prioritisation[193,]
 \end_layout
 
 \begin_layout Itemize
+\noindent
 
 \series bold
 \emph on
@@ -1685,6 +1769,7 @@ Analysis of Requirements[194,]
 
 \begin_deeper
 \begin_layout Itemize
+\noindent
 
 \series bold
 \emph on
@@ -1706,6 +1791,7 @@ s
 \end_layout
 
 \begin_layout Itemize
+\noindent
 
 \series bold
 \emph on
@@ -1717,6 +1803,7 @@ Negotiate on the requirements with the stakeholders to compromise / get
 \end_layout
 
 \begin_layout Itemize
+\noindent
 
 \series bold
 \emph on
@@ -1729,6 +1816,7 @@ Verify that each requirement is consistent / conforms to the system.
 \end_deeper
 \end_deeper
 \begin_layout Itemize
+\noindent
 
 \series bold
 \emph on
@@ -1741,10 +1829,11 @@ Experience what our users experience.
 
 \end_deeper
 \begin_layout Subsubsection
+\noindent
 
 \series bold
 \emph on
-Define
+(2)Define
 \emph default
 : 
 \series default
@@ -1753,6 +1842,7 @@ Unpacking our findings from Empathy, into compelling needs, insights and
 \end_layout
 
 \begin_layout Standard
+\noindent
 We are laying concrete definitions and focusing on a problem that the user(s)
  may experience.
  Our goal is to develop a deep understanding of the users and the design
@@ -1761,6 +1851,7 @@ We are laying concrete definitions and focusing on a problem that the user(s)
 \end_layout
 
 \begin_layout Itemize
+\noindent
 
 \series bold
 \emph on
@@ -1772,10 +1863,12 @@ What are some needs that we have discovered?
 
 \begin_deeper
 \begin_layout Itemize
+\noindent
 These needs could be physical and or emotional.
 \end_layout
 
 \begin_layout Itemize
+\noindent
 
 \series bold
 \emph on
@@ -1787,6 +1880,7 @@ What are some insights that we have found interesting?
 
 \begin_deeper
 \begin_layout Itemize
+\noindent
 Something that may not conform to the norm; this could give you a leverage
  or a unique selling point to your application.
  We can further leverage these insights to tailor our applications to our
@@ -1796,16 +1890,18 @@ Something that may not conform to the norm; this could give you a leverage
 \end_deeper
 \end_deeper
 \begin_layout Subsubsection
+\noindent
 
 \series bold
 \emph on
-Ideate: 
+(3)Ideate: 
 \series default
 \emph default
 Generation of Ideas.
 \end_layout
 
 \begin_layout Standard
+\noindent
 Now that we have an actionable problem statement, as well as a rough reference
  on the user insights and problems, we can begin to generate ideas.
  The goal now, is to explore a large solution space and develop a large,
@@ -1816,6 +1912,7 @@ Now that we have an actionable problem statement, as well as a rough reference
 \end_layout
 
 \begin_layout Itemize
+\noindent
 
 \series bold
 \emph on
@@ -1827,6 +1924,7 @@ Sketching
 
 \begin_deeper
 \begin_layout Itemize
+\noindent
 
 \series bold
 \emph on
@@ -1838,34 +1936,41 @@ We can narrow our selection down by:
 
 \begin_deeper
 \begin_layout Itemize
+\noindent
 Voting, where the team iteratively votes for the best ideas across an interval.
 \end_layout
 
 \begin_layout Itemize
+\noindent
 Restrict the ideas to four categories, and elect the appropriate idea(s)
  within each category:
 \end_layout
 
 \begin_deeper
 \begin_layout Itemize
+\noindent
 The most rational choice
 \end_layout
 
 \begin_layout Itemize
+\noindent
 The most daring
 \end_layout
 
 \begin_layout Itemize
+\noindent
 The most likely to delight
 \end_layout
 
 \begin_layout Itemize
+\noindent
 The long shot
 \end_layout
 
 \end_deeper
 \end_deeper
 \begin_layout Itemize
+\noindent
 
 \series bold
 \emph on
@@ -1879,10 +1984,11 @@ Find feedback from participants and your team-members.
 
 \end_deeper
 \begin_layout Subsubsection
+\noindent
 
 \series bold
 \emph on
-Prototyping and different prototype styles[262,]: 
+(4)Prototyping and different prototype styles[262,]: 
 \series default
 \emph default
 Making early samples, or models of a product built to test a concept or
@@ -1890,6 +1996,7 @@ Making early samples, or models of a product built to test a concept or
 \end_layout
 
 \begin_layout Standard
+\noindent
 Now that we have modelled our requirements for the system, we must produce
  a prototype and translate these requirement models into 
 \series bold
@@ -1903,6 +2010,7 @@ design models[222,]
 \end_layout
 
 \begin_layout Itemize
+\noindent
 
 \series bold
 \emph on
@@ -1910,6 +2018,7 @@ Software Architecture[229,] and its different styles [247,]
 \end_layout
 
 \begin_layout Itemize
+\noindent
 
 \series bold
 \emph on
@@ -1917,6 +2026,7 @@ Design Patterns[231,]
 \end_layout
 
 \begin_layout Itemize
+\noindent
 
 \series bold
 \emph on
@@ -1924,6 +2034,7 @@ Seperation of Concerns[232,
 \end_layout
 
 \begin_layout Itemize
+\noindent
 
 \series bold
 \emph on
@@ -1931,6 +2042,7 @@ Modularity[233,]
 \end_layout
 
 \begin_layout Itemize
+\noindent
 
 \series bold
 \emph on
@@ -1938,6 +2050,7 @@ Encapsulation and Information Hiding[235,]
 \end_layout
 
 \begin_layout Itemize
+\noindent
 
 \series bold
 \emph on
@@ -1945,6 +2058,7 @@ Functional Independance [236,]
 \end_layout
 
 \begin_layout Itemize
+\noindent
 
 \series bold
 \emph on
@@ -1952,6 +2066,7 @@ Stepwise Refinement[238,]
 \end_layout
 
 \begin_layout Standard
+\noindent
 \begin_inset Separator plain
 \end_inset
 
@@ -1959,6 +2074,7 @@ Stepwise Refinement[238,]
 \end_layout
 
 \begin_layout Standard
+\noindent
 To ensure that the UX is friendly and responsive, we need to consider 
 \series bold
 \emph on
@@ -1966,25 +2082,131 @@ Interaction Design[266,]
 \end_layout
 
 \begin_layout Subsubsection
+\noindent
 
 \series bold
 \emph on
-Testing
+(5) Testing
 \series default
 \emph default
-: An iterative process in which we refine our solutions and make them better.
+[318,]: An iterative process in which we refine our solutions and make them
+ better.
+\end_layout
+
+\begin_layout Standard
+\noindent
+Now that we have developed our prototype, it is time to iteratively test
+ and refine it.
+ 
+\end_layout
+
+\begin_layout Standard
+\noindent
+Here are the fundamentals of testing:
+\end_layout
+
+\begin_layout Itemize
+\noindent
+
+\series bold
+\emph on
+Validation and Verification[320,]: 
+\series default
+\emph default
+You will be iteratively performing validation and verification tests throughout
+ the testing phase.
+\end_layout
+
+\begin_layout Itemize
+\noindent
+
+\series bold
+\emph on
+Test Driven Development[324,]: 
+\series default
+\emph default
+This is an algorithm which involves knowing what tests before writing the
+ code, involving:
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+\noindent
+
+\series bold
+\emph on
+Creating a test plan[325,]
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+\noindent
+
+\series bold
+\emph on
+Creating a test strategy[337,]
+\end_layout
+
+\begin_layout Itemize
+\noindent
+
+\series bold
+\emph on
+Writing Test Cases [326,]
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+\noindent
+There are different
+\series bold
+\emph on
+ levels of testing[338,]
+\series default
+\emph default
+, and 
+\series bold
+\emph on
+different types of testing (manual vs automated testing)[345,]
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Itemize
+\noindent
+Developing your code.
+\end_layout
+
+\begin_layout Itemize
+\noindent
+Testing your code.
+\end_layout
+
+\end_deeper
+\begin_layout Subsubsection
+\noindent
+
+\emph on
+(6 - ADDITIONAL) Evaluation of the Application
 \end_layout
 
 \begin_layout Subsection
+\noindent
 
 \emph on
 Testing
 \end_layout
 
 \begin_layout Subsection
+\noindent
 
 \emph on
 Application Evaluation
+\end_layout
+
+\begin_layout Standard
+\noindent
+fdf
 \end_layout
 
 \end_body
