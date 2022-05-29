@@ -1181,36 +1181,6 @@ https://www.uml-diagrams.org/uml-25-diagrams.html
 \noindent
 
 \emph on
-Data Analysis and Statistics
-\end_layout
-
-\begin_layout Standard
-\noindent
-\begin_inset Newpage newpage
-\end_inset
-
-
-\end_layout
-
-\begin_layout Part
-\noindent
-
-\emph on
-Idea Development
-\end_layout
-
-\begin_layout Standard
-\noindent
-\begin_inset Newpage newpage
-\end_inset
-
-
-\end_layout
-
-\begin_layout Part
-\noindent
-
-\emph on
 Application Flow
 \end_layout
 
@@ -2083,7 +2053,6 @@ Heuristics[379,]
  to check whether the UI elements conform to usability principles.
 \end_layout
 
-\begin_deeper
 \begin_layout Itemize
 These heuristics could be questions or ratings.
 \end_layout
@@ -2145,7 +2114,6 @@ Experts work together with the design team to discuss findings, their prioritsat
 ion and suggestions for solutions.
 \end_layout
 
-\end_deeper
 \end_deeper
 \end_deeper
 \begin_layout Itemize

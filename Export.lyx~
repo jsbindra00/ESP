@@ -1181,36 +1181,6 @@ https://www.uml-diagrams.org/uml-25-diagrams.html
 \noindent
 
 \emph on
-Data Analysis and Statistics
-\end_layout
-
-\begin_layout Standard
-\noindent
-\begin_inset Newpage newpage
-\end_inset
-
-
-\end_layout
-
-\begin_layout Part
-\noindent
-
-\emph on
-Idea Development
-\end_layout
-
-\begin_layout Standard
-\noindent
-\begin_inset Newpage newpage
-\end_inset
-
-
-\end_layout
-
-\begin_layout Part
-\noindent
-
-\emph on
 Application Flow
 \end_layout
 
@@ -2248,7 +2218,7 @@ Analytical Methods[395,]:
 To use as metrics, such as IO tracking etc, 
 \series bold
 \emph on
-Fitts Law (Predictive Modelling)[396,]
+Fitts Law (Predictive Modelling)[396,], System Usability Scale (SUS)[420,]
 \end_layout
 
 \end_deeper
@@ -2302,11 +2272,20 @@ Specify the hypothesis based on the changing variables (your expected outcome)[4
 
 \end_deeper
 \begin_layout Enumerate
-Conduct a Pilot Study?????? 
+
+\series bold
+\emph on
+Conduct a Pilot Study: 
+\series default
+\emph default
+A small test study.
 \end_layout
 
 \begin_layout Enumerate
-Use a script to collect data
+
+\series bold
+\emph on
+Use a script to collect data[424,]
 \end_layout
 
 \begin_layout Enumerate
