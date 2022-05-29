@@ -797,9 +797,21 @@ Anonymise the data if possible (pixelating images).
 \end_layout
 
 \begin_layout Itemize
-Secure storage of data.
+Secure storage of data
 \end_layout
 
+\begin_deeper
+\begin_layout Itemize
+All participant data should be stored securely on the University drives,
+ access files with files.bath.ac.uk remotely.
+\end_layout
+
+\begin_layout Itemize
+All paper data like consent forms should be stored in locked filing cabinets
+ with clear labels.
+\end_layout
+
+\end_deeper
 \begin_layout Subsubsection
 
 \emph on
@@ -842,6 +854,8 @@ Contact information.
 
 \end_deeper
 \begin_layout Subsubsection
+
+\emph on
 Participant Impairments
 \end_layout
 
@@ -850,6 +864,37 @@ You must consider the impairments of your participants of the study as the
  ethical process will take longer and will be more complicated.
  Consent could be more problematic if under 18 / those with diminished responsib
 lity.
+ 
+\end_layout
+
+\begin_layout Subsubsection
+
+\emph on
+Debriefing
+\end_layout
+
+\begin_layout Itemize
+Thank the participant for their time
+\end_layout
+
+\begin_layout Itemize
+Provide participants with a full explanation of what was being tested.
+\end_layout
+
+\begin_layout Itemize
+What were the hypotheses and what were they based upon.
+\end_layout
+
+\begin_layout Itemize
+Explain how the results will be used.
+\end_layout
+
+\begin_layout Itemize
+Where they can find more information.
+\end_layout
+
+\begin_layout Itemize
+Reminder of their right to withdraw.
 \end_layout
 
 \begin_layout Standard
@@ -1110,18 +1155,118 @@ Idea Development
 \end_layout
 
 \begin_layout Part
+
+\emph on
+Organising Stakeholder Requirements [
+\end_layout
+
+\begin_layout Part
 \noindent
 
 \emph on
-Stakeholder Engagement
+Stakeholder Engagement[106,]
 \end_layout
 
+\begin_layout Section
+
+\emph on
+Stakeholder Engagement Plan (SEP)
+\end_layout
+
+\begin_layout Itemize
+
+\emph on
+Context Definition
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Early on, describe the problem and propsed solution, indicate stakeholders
+ and details of the problem/soluton context.
+\end_layout
+
+\begin_layout Itemize
+Later, describe the system, product features, indicate target users and
+ details of where the system/product is/will be used.
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\emph on
+Engagement Goal
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Clarify the engagement outcome in terms of the broader project context.
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\emph on
+Engagement Method
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Surveys
+\end_layout
+
+\begin_layout Itemize
+1-1 Interviews
+\end_layout
+
+\begin_layout Itemize
+Focus Groups
+\end_layout
+
+\begin_layout Itemize
+Ethnographies
+\end_layout
+
+\begin_layout Itemize
+Diaries
+\end_layout
+
+\begin_layout Itemize
+Observations
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\emph on
+Location and Profile
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Where will the engagement take place?
+\end_layout
+
+\begin_layout Itemize
+Who will be involved (consider if team members are required)?
+\end_layout
+
+\begin_layout Itemize
+What will be the role of the stakeholders?
+\end_layout
+
+\end_deeper
 \begin_layout Standard
 \noindent
 \begin_inset Newpage newpage
 \end_inset
 
 
+\end_layout
+
+\begin_layout Part
+
+\emph on
+Conducting Experiments[453,
 \end_layout
 
 \end_body

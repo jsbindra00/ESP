@@ -1158,7 +1158,176 @@ Idea Development
 \noindent
 
 \emph on
-Stakeholder Engagement
+Stakeholders[106,
+\end_layout
+
+\begin_layout Section
+
+\emph on
+Stakeholder Engagement Plan (SEP)
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+What is a stakeholder?
+\end_layout
+
+\begin_layout Standard
+A person, group or company that is directly or indirectly involved in the
+ project, and who may affect or get affected by the outcome of the project.
+\end_layout
+
+\begin_layout Itemize
+
+\emph on
+Context Definition
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Early on, describe the problem and propsed solution, indicate stakeholders
+ and details of the problem/soluton context.
+\end_layout
+
+\begin_layout Itemize
+Later, describe the system, product features, indicate target users and
+ details of where the system/product is/will be used.
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\emph on
+Engagement Goal
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Clarify the engagement outcome in terms of the broader project context.
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\emph on
+Engagement Method
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Surveys
+\end_layout
+
+\begin_layout Itemize
+1-1 Interviews
+\end_layout
+
+\begin_layout Itemize
+Focus Groups
+\end_layout
+
+\begin_layout Itemize
+Ethnographies
+\end_layout
+
+\begin_layout Itemize
+Diaries
+\end_layout
+
+\begin_layout Itemize
+Observations
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\emph on
+Location and Profile
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Where will the engagement take place?
+\end_layout
+
+\begin_layout Itemize
+Who will be involved (consider if team members are required)?
+\end_layout
+
+\begin_layout Itemize
+What will be the role of the stakeholders?
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+\begin_inset Separator plain
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+
+\emph on
+Sampling Data
+\end_layout
+
+\begin_layout Standard
+There are two major types of sampling methods.
+\end_layout
+
+\begin_layout Subsection
+
+\emph on
+Probabilistic Sampling
+\end_layout
+
+\begin_layout Itemize
+
+\emph on
+Census: 
+\emph default
+Every single person in the targeted user population is cosen to take part
+ in the survey.
+\end_layout
+
+\begin_layout Itemize
+
+\emph on
+Random Sample: 
+\emph default
+not all people are chosen to participate, but it is known what the likelihood
+ of being chosen to participate.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Separator plain
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+
+\emph on
+Non-Probabilistic Sampling
+\end_layout
+
+\begin_layout Itemize
+You do not or cannot use a strict random sample.
+\end_layout
+
+\begin_layout Itemize
+You do not know the likelihood of an individual being selected.
+\end_layout
+
+\begin_layout Itemize
+You are not interested in a population estimate.
+\end_layout
+
+\begin_layout Itemize
+There may not be a clearly defined population of interest.
 \end_layout
 
 \begin_layout Standard
@@ -1167,6 +1336,12 @@ Stakeholder Engagement
 \end_inset
 
 
+\end_layout
+
+\begin_layout Part
+
+\emph on
+Conducting Experiments[453,
 \end_layout
 
 \end_body
