@@ -1366,19 +1366,19 @@ Engaging Stakeholders
 Gathering Stakeholder Data
 \end_layout
 
-\begin_layout Section
+\begin_layout Part
 
 \emph on
 Application Flow
 \end_layout
 
-\begin_layout Subsection
+\begin_layout Section
 
 \emph on
 Human Centred Design
 \end_layout
 
-\begin_layout Subsubsection
+\begin_layout Subsection
 
 \emph on
 What is Human Centered Design?
@@ -1392,7 +1392,7 @@ Human centered design is an interative design process, in which designers
  the problem solving process.
 \end_layout
 
-\begin_layout Subsubsection
+\begin_layout Subsection
 
 \emph on
 Drawbacks of Human Centered Design
@@ -1411,10 +1411,11 @@ Most people do not know what they want; as such, it would be difficult to
 
 \end_layout
 
-\begin_layout Subsubsection
+\begin_layout Subsection
 
 \emph on
-How can one enforce Human Centered Design?
+How can one enforce Human Centered Design? The Design Thinking Model (Five
+ Step Process)
 \end_layout
 
 \begin_layout Standard
@@ -1427,18 +1428,21 @@ Design Thinking
  five-stage model, proposed at the Institute of Design at Stanford.
 \end_layout
 
-\begin_layout Itemize
+\begin_layout Subsubsection
 
 \series bold
 \emph on
-Empathise: 
+Empathise
 \series default
 \emph default
-To empathise with another human being is to understand and share their feelings.
- We can achieve empathy through::
+: To empathise with another human being is to understand and share their
+ feelings.
 \end_layout
 
-\begin_deeper
+\begin_layout Standard
+We can achieve empathy through:
+\end_layout
+
 \begin_layout Itemize
 
 \series bold
@@ -1455,6 +1459,7 @@ Keep asking why when asking questions.
  
 \end_layout
 
+\begin_deeper
 \begin_layout Itemize
 Encourage stories and get worldviews.
 \end_layout
@@ -1468,11 +1473,86 @@ Pay attention to non verbal cues such as body language and emotion.
 
 \series bold
 \emph on
-Engage
+Engaging Stakeholders
 \series default
 \emph default
-: Interact with users through encounters.
- You could do this through:
+: 
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+
+\series bold
+\emph on
+What is a stakeholder? 
+\series default
+\emph default
+A person, group or company that is directly or indirectly involved in the
+ project, and wo may affect or get affected by the outcome of the project.
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+\emph on
+How can we engage stakeholders?
+\series default
+\emph default
+ Interact with stakeholders through encounters.
+ One should engage early and at every stage; this will help scope and guide
+ as well as validate our progress towards the project goals.
+ We can do this by defining a 
+\series bold
+\emph on
+Stakeholder Engagement Plan (SEP).
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+\emph on
+Stakeholder Engagement Plan (SEP)
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+
+\series bold
+\emph on
+Define Context
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Describe the problem and proposed solution and inform stakeholders of this
+ context.
+ Describe the system features and suggest target users and details of how
+ and where the system will be used.
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\series bold
+\emph on
+Define Engagement Goal
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+What do you hope to gain from engaging your stakeholders?
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\series bold
+\emph on
+Define your method of engagement[115,], [131,].
+ 
+\series default
+\emph default
+These could include:
 \end_layout
 
 \begin_deeper
@@ -1487,7 +1567,7 @@ Engage
 
 \series bold
 \emph on
-Focus Groups
+Focus Groups[134,
 \end_layout
 
 \begin_layout Itemize
@@ -1516,6 +1596,73 @@ Diaries
 
 \series bold
 \emph on
+Define your location and profile.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Where will the engagement take place?
+\end_layout
+
+\begin_layout Itemize
+Who will be involved (including team members)?
+\end_layout
+
+\begin_layout Itemize
+What will be the role of the stakeholders, and which of their characteristics
+ make them sutiable for this engagement?
+\end_layout
+
+\end_deeper
+\end_deeper
+\end_deeper
+\begin_layout Itemize
+
+\series bold
+\emph on
+Organising Stakeholder Requirements[168,]: 
+\series default
+\emph default
+Now that we have engaged our stakeholders and gathered some data, we must
+ arrange their perspectives into categories of requirements for our application;
+ this is necessary as it builds a bridge to design and implementation.
+ System requirements should be unambiguous and verifiable with a clear procedure.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+
+\series bold
+\emph on
+Functional Requirements: 
+\series default
+\emph default
+General system constraints, demands from the systems in terms of quality
+ and performance.
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+\emph on
+Non Functional Requirements: 
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\series bold
+\emph on
+Requirements Engineering[178,]: 
+\series default
+\emph default
+To produce these requirements, refer to the seven step process.
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+\emph on
 Immerse:
 \emph default
  
@@ -1524,7 +1671,7 @@ Experience what our users experience.
 \end_layout
 
 \end_deeper
-\begin_layout Itemize
+\begin_layout Subsubsection
 
 \series bold
 \emph on
@@ -1533,14 +1680,17 @@ Define
 : 
 \series default
 Unpacking our findings from Empathy, into compelling needs, insights and
- a meaningful challenge; we are laying concrete definitions and focusing
- on a problem that the user(s) may experience.
+ a meaningful challenge.
+\end_layout
+
+\begin_layout Standard
+We are laying concrete definitions and focusing on a problem that the user(s)
+ may experience.
  Our goal is to develop a deep understanding of the users and the design
  sapce, and to come up with an actionable problem statement.
  We can analyse our Empathy findings by the following:
 \end_layout
 
-\begin_deeper
 \begin_layout Itemize
 
 \series bold
@@ -1556,7 +1706,6 @@ What are some needs that we have discovered?
 These needs could be physical and or emotional.
 \end_layout
 
-\end_deeper
 \begin_layout Itemize
 
 \series bold
@@ -1577,13 +1726,17 @@ Something that may not conform to the norm; this could give you a leverage
 
 \end_deeper
 \end_deeper
-\begin_layout Itemize
+\begin_layout Subsubsection
 
 \series bold
 \emph on
 Ideate: 
 \series default
 \emph default
+Generation of Ideas.
+\end_layout
+
+\begin_layout Standard
 Now that we have an actionable problem statement, as well as a rough reference
  on the user insights and problems, we can begin to generate ideas.
  The goal now, is to explore a large solution space and develop a large,
@@ -1593,7 +1746,6 @@ Now that we have an actionable problem statement, as well as a rough reference
  The ideate process is as follows:
 \end_layout
 
-\begin_deeper
 \begin_layout Itemize
 
 \series bold
@@ -1604,6 +1756,7 @@ Sketching
 : Go for volume.
 \end_layout
 
+\begin_deeper
 \begin_layout Itemize
 
 \series bold
@@ -1647,14 +1800,42 @@ The long shot
 
 \series bold
 \emph on
-Getting Feedback on pruned ideas: 
+Feedback on pruned ideas: 
 \series default
 \emph default
 Find feedback from participants and your team-members.
  Criticism is essential.
+ Then, iterate and refine your ideas based on this feedback.
 \end_layout
 
 \end_deeper
+\begin_layout Subsubsection
+
+\series bold
+\emph on
+Prototyping: 
+\series default
+\emph default
+Making early samples, or models of a product built to test a concept or
+ process.
+ 
+\end_layout
+
+\begin_layout Itemize
+You can create a digital or physical prototype of your solition, which the
+ user or team member can engage and interact with.
+\end_layout
+
+\begin_layout Subsubsection
+
+\series bold
+\emph on
+Testing
+\series default
+\emph default
+: An iterative process in which we refine our solutions and make them better.
+\end_layout
+
 \begin_layout Subsection
 
 \emph on
